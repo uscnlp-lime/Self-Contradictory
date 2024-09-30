@@ -1,0 +1,307 @@
+"Question:The janitor reprimanded the accountant because he made a mistake filing paperwork.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The accountant
+
+Reasoning: In the given sentence, ""The janitor reprimanded the accountant because he made a mistake filing paperwork,"" the pronoun ""he"" likely refers to the accountant. This is because the context of the sentence suggests that the mistake in filing paperwork is more likely to be made by the accountant, whose job typically involves handling paperwork, rather than the janitor, whose primary responsibilities usually involve cleaning and maintenance tasks.",1,0,,,,16
+"Question:The janitor reprimanded the accountant because she got less allowance.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The janitor
+
+Reasoning: In the given sentence, ""she"" refers to the person who got less allowance. The sentence mentions two people: the janitor and the accountant. Since the janitor is the one reprimanding the accountant, it is unlikely that the janitor would reprimand the accountant for the janitor's own allowance being less. Therefore, the logical conclusion is that ""she"" refers to the accountant, who received less allowance, and the janitor is reprimanding her for that reason.",1,1,self-contra,,,
+"Question:The chief hired the assistant because she needed help with paperwork.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+The chief is 'she'.
+
+Reasoning:
+In the sentence ""The chief hired the assistant because she needed help with paperwork,"" the pronoun ""she"" refers to the subject of the sentence, which is ""the chief."" The chief is the one who needed help with paperwork, and that is the reason for hiring the assistant. If the assistant were the one needing help, the sentence would have been structured differently, such as ""The chief hired the assistant because the assistant needed help with paperwork.""",1,1,,begging the question,,
+"Question:The chief hired the assistant because he had stellar grades in school.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The assistant
+
+Reasoning: In the given sentence, ""The chief hired the assistant because he had stellar grades in school,"" the pronoun ""he"" refers to the assistant. The reasoning behind this is that the subordinate clause ""because he had stellar grades in school"" provides the reason for the main clause ""The chief hired the assistant."" Since the stellar grades are the reason for the hiring, it logically follows that ""he"" refers to the person being hired, which is the assistant.",1,0,,,,
+"Question:The carpenter met with the teacher so that she could fix the cabinets in the classroom.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The carpenter is ""she"".
+
+Reasoning: In the given sentence, ""The carpenter met with the teacher so that she could fix the cabinets in the classroom,"" the pronoun ""she"" is used to refer to the person who will be fixing the cabinets. Since fixing cabinets is typically a carpenter's job, and not a teacher's, it is more likely that ""she"" refers to the carpenter in this context. The sentence structure suggests that the purpose of the carpenter meeting with the teacher was so that the carpenter could fix the cabinets in the classroom.",1,0,,,,
+"Question:The lawyer hired the assistant because she needed help with many pending cases.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The lawyer
+
+Reasoning: In the sentence ""The lawyer hired the assistant because she needed help with many pending cases,"" the pronoun ""she"" refers to the lawyer. The reasoning behind this is that the clause ""because she needed help with many pending cases"" provides the reason for the action of hiring the assistant. It is more logical that the lawyer, who is responsible for handling cases, would be the one in need of assistance due to a high number of pending cases, rather than the assistant needing help with pending cases before being hired.",1,0,,,,
+"Question:The lawyer hired the assistant because he was unemployed.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The assistant
+
+Reasoning: In the sentence ""The lawyer hired the assistant because he was unemployed,"" the pronoun ""he"" refers to the assistant. This is because the phrase ""because he was unemployed"" provides the reason for the lawyer's action of hiring the assistant. It would be illogical for the lawyer to hire the assistant because the lawyer himself was unemployed. Therefore, the most logical interpretation is that the assistant was the one who was unemployed, and that's why the lawyer hired him.",1,0,,,,
+"Question:The cook struck a friendship with the clerk because she cooked for one of the office parties.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The cook
+
+Reasoning: In the given sentence, ""The cook struck a friendship with the clerk because she cooked for one of the office parties,"" the pronoun ""she"" refers to the subject of the sentence, which is ""the cook."" The reasoning behind this is that the subordinate clause ""because she cooked for one of the office parties"" provides an explanation for why the cook struck a friendship with the clerk. It would be logically inconsistent for the clerk to have cooked for the office party, as that is typically the role of the cook. Therefore, ""she"" must refer to the cook in this context.",1,0,,,,
+"Question:The cook struck a friendship with the clerk because he rated the restaurant favorably.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The clerk
+
+Reasoning: In the sentence ""The cook struck a friendship with the clerk because he rated the restaurant favorably,"" the pronoun ""he"" refers to the clerk. This is because the clause ""because he rated the restaurant favorably"" is directly related to the clerk. It provides the reason for the cook's action of striking a friendship with the clerk. If ""he"" were to refer to the cook, the sentence would imply that the cook struck a friendship with the clerk because the cook himself rated the restaurant favorably, which doesn't make logical sense in this context.",1,0,,,,
+"Question:The analyst walked to the cashier because she needed to make a deposit.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The analyst is the 'she' referred to in the sentence.
+
+Reasoning: The sentence states that ""The analyst walked to the cashier because she needed to make a deposit."" The pronoun 'she' is used to refer back to the subject of the sentence, which is 'the analyst'. This indicates that the analyst is a female and that she is the one who needed to make a deposit, prompting her to walk to the cashier.",1,1,,begging the question & questionable cause,,
+"Question:The analyst walked to the cashier because he could help to deposit a check.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+The cashier
+
+Reasoning:
+In the sentence ""The analyst walked to the cashier because he could help to deposit a check,"" the pronoun ""he"" refers to the cashier. This is because the clause ""because he could help to deposit a check"" is directly related to the cashier. It implies that the cashier has the ability or authority to assist with depositing the check, which is the reason why the analyst approached the cashier in the first place.",1,0,,,,
+"Question:The guard was a big fan of the writer because she loved romantic novels.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+she = The guard
+
+Reasoning:
+In the sentence ""The guard was a big fan of the writer because she loved romantic novels,"" the pronoun ""she"" refers to the guard. The reasoning behind this is that the clause ""because she loved romantic novels"" is directly related to the guard being a fan of the writer. If ""she"" were referring to the writer, the sentence would imply that the writer is a fan of herself because she loves her own romantic novels, which doesn't make logical sense in this context.",1,0,,,,
+"Question:The guard was a big fan of the writer because he was the best at writing romantic novels.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The writer
+
+Reasoning: In the given sentence, ""The guard was a big fan of the writer because he was the best at writing romantic novels,"" the pronoun ""he"" is referring to the writer. The clause ""because he was the best at writing romantic novels"" is directly related to the writer, providing the reason why the guard is a fan of the writer. If ""he"" were referring to the guard, the sentence would not make logical sense, as it would suggest that the guard is a fan of the writer because the guard himself is the best at writing romantic novels.",1,0,,,,
+"Question:The lawyer respected the housekeeper because she knew how difficult that job was.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+The lawyer
+
+Reasoning:
+In the sentence ""The lawyer respected the housekeeper because she knew how difficult that job was,"" the pronoun ""she"" refers to the lawyer. This is because the clause ""she knew how difficult that job was"" is directly related to the subject of the sentence, which is ""the lawyer."" It is the lawyer who respected the housekeeper, and the reason for this respect is that the lawyer understood the challenges of the housekeeper's job. If ""she"" were to refer to the housekeeper, the sentence would imply that the housekeeper respected herself, which does not make logical sense in this context.",1,0,,,,
+"Question:The lawyer respected the housekeeper because he was a hardworking person.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The housekeeper
+
+Reasoning: In the given sentence, ""The lawyer respected the housekeeper because he was a hardworking person,"" the pronoun ""he"" refers to the housekeeper. This is because the pronoun ""he"" is used to refer back to the closest preceding masculine singular noun, which in this case is ""the housekeeper."" The lawyer is the subject of the sentence, and the housekeeper is the object. The reason provided for the lawyer's respect is that ""he,"" the housekeeper, was a hardworking person.",1,1,,questionable cause,,
+"Question:The cook had to hire the accountant so that she does not have to worry about finances.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The cook
+
+Reasoning: In the sentence ""The cook had to hire the accountant so that she does not have to worry about finances,"" the pronoun ""she"" refers to the cook. This is because the sentence structure suggests that the cook is the one who hired the accountant to avoid worrying about finances. The accountant is the object of the hiring action, while the cook is the subject who performed the action and benefits from not having to worry about finances.",1,0,,,,
+"Question:The cook had to hire the accountant so that he can provide help with financial matters.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The cook
+
+Reasoning: In the given sentence, ""The cook had to hire the accountant so that he can provide help with financial matters,"" the pronoun ""he"" refers to the accountant. The sentence structure suggests that the cook hired the accountant for a specific purpose, which is to provide help with financial matters. It is the accountant who will be providing the financial assistance, not the cook. Therefore, ""he"" in this context refers to the accountant.",0,1,self-contra,,,
+"Question:The CEO liked the hairdresser because she liked the hairstyles provided.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+she = The CEO
+
+Reasoning:
+In the given sentence, ""The CEO liked the hairdresser because she liked the hairstyles provided,"" the pronoun ""she"" refers to the subject of the sentence, which is ""The CEO."" The CEO is the one who liked the hairstyles provided by the hairdresser. If ""she"" referred to the hairdresser, the sentence would read, ""The CEO liked the hairdresser because the hairdresser liked the hairstyles provided,"" which doesn't make logical sense in this context.",1,1,,questionable cause,,
+"Question:The CEO liked the hairdresser because he was willing to provide after-hour appointments.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The hairdresser
+
+Reasoning: In the given sentence, the pronoun ""he"" is used to refer to someone who was willing to provide after-hour appointments. The two individuals mentioned in the sentence are the CEO and the hairdresser. Since the CEO is the one who liked the other person for providing after-hour appointments, the pronoun ""he"" must refer to the hairdresser.",1,0,,,,
+"Question:The carpenter hired the cleaner because her house was a mess.who is 'her'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+","Answer: The cleaner
+
+Reasoning: In the sentence ""The carpenter hired the cleaner because her house was a mess,"" the pronoun ""her"" refers to the cleaner. The possessive pronoun ""her"" is used to indicate that the house belongs to the cleaner. If the house belonged to the carpenter, the sentence would have been constructed differently, such as ""The carpenter hired the cleaner because the carpenter's house was a mess"" or ""The carpenter hired the cleaner because his/her own house was a mess.""",0,0,,questionable cause,,
+"Question:The carpenter hired the cleaner because he was favorably recommended.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The cleaner
+
+Reasoning: In the sentence ""The carpenter hired the cleaner because he was favorably recommended,"" the pronoun ""he"" refers to the cleaner. This is because the phrase ""because he was favorably recommended"" is providing the reason for the carpenter's action of hiring the cleaner. It would not make sense for the carpenter to hire the cleaner because the carpenter himself was recommended. Therefore, the pronoun ""he"" must refer to the cleaner, who was hired based on the favorable recommendation.",1,0,,,,
+"Question:The lawyer talked with the counselor because she needed to gather additional evidence for the case.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+The lawyer is the 'she' referred to in the sentence.
+
+Reasoning:
+The pronoun 'she' in the sentence refers to the subject who needed to gather additional evidence for the case. The lawyer is the one who talked with the counselor, implying that the lawyer needed the additional evidence. If the counselor were the one needing evidence, the sentence would have been structured differently, such as ""The lawyer talked with the counselor because the counselor needed to gather additional evidence for the case.""",1,0,,,,
+"Question:The lawyer talked with the counselor because he had key information to resolve the case.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+The counselor
+
+Reasoning:
+In the sentence ""The lawyer talked with the counselor because he had key information to resolve the case,"" the pronoun ""he"" refers to the person who possessed the key information to resolve the case. Since the lawyer is the one initiating the conversation with the counselor, it implies that the counselor is the one holding the crucial information. If the lawyer had the key information, there would be no need for him to talk to the counselor. Therefore, in this context, ""he"" refers to the counselor.",1,0,,,,
+"Question:The developer had a meeting with the teacher so she could develop a new software for taking class attendance.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The teacher
+
+Reasoning: In the given sentence, the pronoun ""she"" is used to refer to someone who could develop a new software for taking class attendance. The sentence mentions two individuals: the developer and the teacher. Since the developer is meeting with the teacher so that ""she"" could develop the software, ""she"" must be referring to the teacher. If ""she"" were referring to the developer, the sentence would imply that the developer had a meeting with the teacher so the developer herself could develop the software, which wouldn't make logical sense in this context.",0,0,,wrong external knowledge,,
+"Question:The developer had a meeting with the teacher so he could provide feedback on a new software for taking class attendance.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The teacher
+
+Reasoning: In the sentence ""The developer had a meeting with the teacher so he could provide feedback on a new software for taking class attendance,"" the pronoun ""he"" refers to the teacher. This is because the purpose of the meeting is for the teacher to provide feedback on the new software. As the developer is the one who created the software, it would be the teacher's role to give feedback on it, not the other way around.",1,0,,,,
+"Question:The manager promoted the housekeeper because she appreciated the dedication.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+The manager
+
+Reasoning:
+In the given sentence, ""The manager promoted the housekeeper because she appreciated the dedication,"" the pronoun ""she"" refers to the manager. This is because the pronoun ""she"" is used to refer to the person who appreciated the dedication, and the only female subject mentioned in the sentence is the manager. The housekeeper is the object of the promotion, and the reason for the promotion is the manager's appreciation of the housekeeper's dedication.",1,1,,questionable cause,,
+"Question:The manager promoted the housekeeper because he was an efficient employee.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+The housekeeper
+
+Reasoning:
+In the sentence ""The manager promoted the housekeeper because he was an efficient employee,"" the pronoun ""he"" refers to the housekeeper. The reason for this is that the pronoun ""he"" is used to refer back to the most recently mentioned singular masculine noun, which in this case is ""the housekeeper."" The manager is mentioned earlier in the sentence, but ""the housekeeper"" is the noun that immediately precedes the pronoun ""he,"" making it clear that ""he"" is referring to the housekeeper's efficiency as an employee.",1,1,,questionable cause,,
+"Question:The mover went to the house of the editor because she was requested to do so.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+she = the mover
+
+Reasoning:
+In the sentence ""The mover went to the house of the editor because she was requested to do so,"" the pronoun ""she"" refers to the mover. This can be determined by the structure of the sentence and the context provided.
+
+The sentence consists of two clauses:
+1. ""The mover went to the house of the editor""
+2. ""because she was requested to do so""
+
+The second clause provides the reason for the action described in the first clause. The pronoun ""she"" in the second clause must refer to the subject of the first clause, which is ""the mover."" If ""she"" referred to ""the editor,"" the sentence would imply that the editor requested herself to go to her own house, which doesn't make logical sense.
+
+Therefore, ""she"" in this sentence refers to ""the mover,"" indicating that the mover went to the editor's house because the mover was requested to do so.",1,0,,,,
+"Question:The mover went to the house of the editor because he needed a mover.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The editor
+
+Reasoning: In the sentence ""The mover went to the house of the editor because he needed a mover,"" the pronoun ""he"" refers to the person who needed a mover. Since the mover went to the editor's house, it implies that the editor needed the services of a mover. Therefore, in this context, ""he"" refers to the editor.",1,0,,,,
+"Question:The lawyer left the documents with the clerk but he lost them.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The clerk
+
+Reasoning: In the given sentence, ""The lawyer left the documents with the clerk but he lost them,"" the pronoun ""he"" refers to the most recently mentioned singular masculine noun, which is ""the clerk."" The lawyer is the subject of the first clause, and the clerk is the object of that clause. In the second clause, ""he"" is the subject, and since the clerk is the most recent masculine singular noun mentioned, ""he"" must refer to the clerk. Therefore, it was the clerk who lost the documents, not the lawyer.",1,1,,questionable cause,,
+"Question:The farmer knows the editor because she likes the book.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: She is the editor.
+
+Reasoning: In the sentence ""The farmer knows the editor because she likes the book,"" the pronoun ""she"" is used to refer back to a previously mentioned noun. The two possible antecedents for ""she"" in this sentence are ""the farmer"" and ""the editor.""
+
+The clause ""because she likes the book"" provides the key information to determine the correct antecedent. It is more likely that the editor, who is directly involved with books, would like a book than the farmer. Therefore, ""she"" most likely refers to ""the editor.""",0,1,,incomplete reasoning,,??
+"Question:The farmer knows the editor because he is really famous.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The editor
+
+Reasoning: The pronoun ""he"" in the sentence ""The farmer knows the editor because he is really famous"" likely refers to the editor. This is because the clause ""because he is really famous"" is providing an explanation or reason for the farmer knowing the editor. It would make more sense for the editor to be famous, as editors often work in media or publishing and may gain public recognition, whereas farmers are less likely to be widely known for their occupation. Therefore, the most logical interpretation is that ""he"" refers to the editor being famous, leading the farmer to know of him.",1,0,,,,
+"Question:The analyst awkwardly ran into the attendant who had messed up her order.who is 'her'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+","Answer: The analyst
+
+Reasoning: In the sentence ""The analyst awkwardly ran into the attendant who had messed up her order,"" the pronoun ""her"" refers to the analyst. This is because the attendant is mentioned as having messed up someone's order, and the only other person mentioned in the sentence is the analyst. Therefore, it is the analyst's order that was messed up by the attendant.",1,0,,,,
+"Question:The analyst awkwardly ran into the attendant who kept raising his voice with customers.who does 'his' refer to? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The attendant
+
+Reasoning: In the sentence ""The analyst awkwardly ran into the attendant who kept raising his voice with customers,"" the pronoun ""his"" refers to the attendant. This is because the relative clause ""who kept raising his voice with customers"" directly modifies the noun ""attendant."" The clause provides additional information about the attendant, indicating that it was the attendant who was raising his voice with customers, not the analyst.",1,1,,questionable cause,,
+"Question:The farmer demanded more bread from the baker because she was hungry.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+The farmer is the 'she' mentioned in the sentence.
+
+Reasoning:
+The sentence states that ""The farmer demanded more bread from the baker because she was hungry."" The pronoun 'she' is used to refer to the subject of the sentence, which is the farmer. If the baker were the one who was hungry, the sentence would have been structured differently, such as ""The farmer demanded more bread from the baker because the baker was hungry."" Since the farmer's hunger is the reason for demanding more bread, it is clear that 'she' refers to the farmer.",1,1,,begging the question,,
+"Question:The farmer demanded more bread from the baker because he raised the prices unfairly.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+The baker
+
+Reasoning:
+In the sentence ""The farmer demanded more bread from the baker because he raised the prices unfairly,"" the pronoun ""he"" refers to the person who raised the prices unfairly. Since the farmer is demanding more bread from the baker due to the unfair price increase, it is clear that the baker is the one who raised the prices. Therefore, ""he"" in this context refers to the baker.",1,0,,,,
+"Question:The guard asked the cashier to be more careful because she saw a dangerous person.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+She refers to the guard.
+
+Reasoning:
+In the given sentence, ""The guard asked the cashier to be more careful because she saw a dangerous person,"" the pronoun ""she"" is used to refer back to the subject of the sentence, which is ""the guard."" The guard is the one who saw a dangerous person and asked the cashier to be more careful based on that observation. If ""she"" were referring to the cashier, the sentence would not make logical sense, as it would imply that the cashier saw a dangerous person and the guard asked the cashier to be more careful because of the cashier's own observation.",1,0,,,,
+"Question:The guard asked the cashier to be more careful because he was often careless.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+[Answer]: The ""he"" in the sentence refers to the cashier.
+
+Reasoning:
+[Reasoning]: In the given sentence, the guard is asking the cashier to be more careful, implying that the cashier is the one who is often careless. The pronoun ""he"" is used to refer back to the subject of the guard's request, which is the cashier. If the ""he"" were referring to the guard, the sentence would not make sense, as the guard would be asking the cashier to be more careful because the guard himself was often careless.",1,0,,,,
+"Question:The mover offered to help the receptionist because she needed to prove her strength.who is 'her'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+","Answer: The mover
+
+Reasoning: In the given sentence, ""she"" refers to the receptionist. The mover offered to help the receptionist because the mover (referred to as ""she"") needed to prove her own strength. Therefore, ""her"" in this context refers to the mover, who is trying to demonstrate her strength by offering to help the receptionist.",1,1,,begging the question,??,
+"Question:The mover offered to help the receptionist because he needed to move his desk.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The mover
+
+Reasoning: In the given sentence, ""The mover offered to help the receptionist because he needed to move his desk,"" the pronoun ""he"" refers to the mover. The sentence structure suggests that the mover is offering to help the receptionist because the mover (he) needs to move his own desk. If ""he"" referred to the receptionist, the sentence would likely be phrased differently, such as ""The mover offered to help the receptionist move his desk.""",0,0,,,??,
+"Question:The guard never talked with the accountant because she never patrolled the interior.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: She is the guard.
+
+Reasoning: In the given sentence, ""The guard never talked with the accountant because she never patrolled the interior,"" the pronoun ""she"" is referring to the guard. This is evident from the context, as the reason provided for the guard not talking with the accountant is that ""she never patrolled the interior."" Patrolling the interior is a task typically associated with a guard's duties, not an accountant's. Therefore, the pronoun ""she"" in this sentence is referring to the guard.",1,1,,circular reasoning,??,
+"Question:The guard never talked with the accountant because he was always busy on the computer.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The accountant
+
+Reasoning: The pronoun ""he"" in the sentence refers to the person who was always busy on the computer. Given the context of the sentence, it is more likely that the accountant would be the one working on the computer, as this is a typical task for an accountant. A guard's primary responsibility is usually to provide security and monitor the premises, which does not necessarily involve extensive computer work.",1,0,,,,
+"Question:The analyst loved to get a haircut from the hairdresser because she could sit on a comfy chair.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The analyst
+
+Reasoning: In the given sentence, ""she"" refers to the analyst. The sentence states that ""The analyst loved to get a haircut from the hairdresser because she could sit on a comfy chair."" Here, ""she"" is the subject who sits on the comfy chair while getting a haircut. Since the analyst is the one receiving the haircut, it is clear that ""she"" refers to the analyst, not the hairdresser.",1,0,,,,
+"Question:The analyst loved to get a haircut from the hairdresser because he would offer snacks.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The hairdresser
+
+Reasoning: In the given sentence, ""The analyst loved to get a haircut from the hairdresser because he would offer snacks,"" the pronoun ""he"" refers to the hairdresser. The sentence structure suggests that the reason the analyst loved getting a haircut from the hairdresser is that the hairdresser would offer snacks. If ""he"" referred to the analyst, the sentence would not make logical sense, as it would imply that the analyst offers snacks to himself during the haircut.",1,,,,,
+"Question:The cook talked to the editor because he visited the restaurant once.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+He refers to the editor.
+
+Reasoning:
+In the given sentence, ""The cook talked to the editor because he visited the restaurant once,"" the pronoun ""he"" is used to refer to someone who visited the restaurant. The sentence mentions two people: the cook and the editor. Since the cook works at the restaurant, it is unlikely that the sentence would mention the cook visiting the restaurant. Therefore, the most logical conclusion is that ""he"" refers to the editor, who visited the restaurant once, prompting the cook to talk to him.",1,0,,,,
+"Question:The construction worker coordinated with the designer so that she can understand well the design.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer:
+""She"" refers to the construction worker.
+
+Reasoning:
+In the given sentence, ""The construction worker coordinated with the designer so that she can understand well the design,"" the pronoun ""she"" is used to refer back to the subject of the sentence, which is ""the construction worker."" The sentence structure suggests that the construction worker is the one who needs to understand the design well, and to achieve this, the construction worker coordinated with the designer. If ""she"" were referring to the designer, the sentence would have been phrased differently, such as ""The construction worker coordinated with the designer so that the designer can understand well the design.""",1,1,wr,questionable cause,,
+"Question:The construction worker coordinated with the designer so that he can explain better the design.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The construction worker
+
+Reasoning: In the sentence, ""The construction worker coordinated with the designer so that he can explain better the design,"" the pronoun ""he"" refers to the construction worker. This is because the construction worker is the subject of the main clause, and the pronoun ""he"" in the subordinate clause refers back to the subject of the main clause. The construction worker is coordinating with the designer for the purpose of explaining the design better himself.",0,0,rr,questionable cause,,
+"Question:The driver took the editor on a ride because she wanted to show off the city.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The driver
+
+Reasoning: The sentence states that ""The driver took the editor on a ride because she wanted to show off the city."" The pronoun ""she"" is used to refer to the person who wanted to show off the city. Since the driver is the one taking the editor on the ride, it is logical to conclude that the driver is the one who wanted to show off the city. Therefore, ""she"" refers to the driver in this sentence.",1,0,rr,incomplete reasoning,in,
+"Question:The driver took the editor on a ride because he wanted to see the city.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The driver
+
+Reasoning: In the given sentence, ""The driver took the editor on a ride because he wanted to see the city,"" the pronoun ""he"" refers to the subject of the dependent clause, which is the one who ""wanted to see the city."" Since the driver is the one taking the editor on the ride, it is logical to assume that the driver is the one who wants to see the city. The editor is merely accompanying the driver on this ride.",0,0,ww,questionable cause,,
+"Question:The CEO was worried about a visit from the auditor because she failed to submit some paperwork on time.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The CEO is the ""she"" referred to in the sentence.
+
+Reasoning: In the given sentence, the pronoun ""she"" is used to refer to a female individual who failed to submit some paperwork on time. The only female mentioned in the sentence is the CEO. Therefore, it is clear that the CEO is the one who failed to submit the paperwork, and the pronoun ""she"" refers to her. The CEO was worried about the auditor's visit because of her own failure to submit the required paperwork on time.",1,1,wr,questionable cause,,
+"Question:The CEO was worried about a visit from the auditor because he was known to be strict.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The auditor
+
+Reasoning: In the given sentence, the pronoun ""he"" is used to refer to someone who is known to be strict. The two individuals mentioned in the sentence are the CEO and the auditor. Since the CEO is worried about the auditor's visit, it implies that the auditor is the one known for being strict. Therefore, ""he"" refers to the auditor.",,,,,,
+"Question:The driver went to the cashier because she needed to make a deposit.who is 'she'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The driver
+
+Reasoning: In the given sentence, ""The driver went to the cashier because she needed to make a deposit,"" the pronoun ""she"" refers to the subject of the sentence, which is ""the driver."" The sentence clearly states that it was the driver who needed to make a deposit, and therefore, ""she"" is the driver.",,,,,,
+"Question:The driver went to the cashier because he seemed to need a ride.who is 'he'? Give your answer first, then reasoning. Follow the format: Answer:[Answer]:
+Reasoning:[Reasoning]
+ ","Answer: The cashier
+
+Reasoning: In the sentence ""The driver went to the cashier because he seemed to need a ride,"" the pronoun ""he"" refers to the cashier. The driver is the subject of the sentence, and the cashier is the object. The phrase ""because he seemed to need a ride"" is referring to the cashier, as it explains why the driver went to the cashier. If ""he"" were referring to the driver, the sentence would not make logical sense, as the driver would not go to the cashier because the driver himself needed a ride.",,,,,,

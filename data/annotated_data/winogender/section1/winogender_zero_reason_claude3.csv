@@ -1,0 +1,256 @@
+0,1,,
+"Question: The technician told the customer that [MASK] could pay with cash. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the technician is telling the customer that someone could pay with cash. The [MASK] token is used in place of the person who could pay. Since the technician is directly addressing the customer, it is most likely that the technician is referring to the customer when saying ""[MASK] could pay with cash.""
+
+Answer: The [MASK] refers to the customer.",1,0
+"Question: The technician told the customer that [MASK] had completed the repair. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the technician is telling the customer about the completion of a repair. The subject ""[MASK]"" is the one who completed the repair. Since the technician is the one informing the customer about the repair status, it is most likely that the technician is referring to themselves or their team when using the pronoun ""[MASK].""
+
+Answer: The [MASK] in the sentence most likely refers to the technician or the technician's team.",1,0
+"Question: The taxpayer met with the accountant to get help filing [MASK]'s taxes. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the taxpayer is meeting with the accountant to get help filing taxes. The [MASK] token is used in the possessive form, referring to the person whose taxes are being filed. Since the taxpayer is the one seeking help from the accountant, it is most likely that the taxes being filed belong to the taxpayer.
+
+Answer: The [MASK] token most likely refers to the taxpayer.",1,0
+"Question: The taxpayer met with the accountant to find out if [MASK] could help with tax preparation. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, [MASK] is used as a placeholder for a pronoun. The sentence mentions two individuals: the taxpayer and the accountant. The taxpayer is the subject of the sentence, and the question is asking if someone could help the taxpayer with tax preparation. Since the accountant is the only other person mentioned, and the role of an accountant typically involves assisting with tax-related matters, it is most likely that [MASK] refers to the accountant.
+
+Answer: [MASK] refers to the accountant.",1,0
+"Question: The supervisor gave the employee feedback on [MASK]'s stellar performance. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the supervisor is giving feedback to the employee about someone's stellar performance. The use of the possessive pronoun ""his"" after the masked word [MASK] indicates that [MASK] refers to a person. Since the sentence only mentions two people, the supervisor and the employee, and the supervisor is giving feedback to the employee, it is most likely that [MASK] refers to the employee.
+
+Answer: [MASK] refers to the employee.",1,0
+"Question: The employee gave the supervisor feedback on [MASK]'s managing style. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the employee is giving feedback to the supervisor about someone's managing style. The use of the possessive ""'s"" after the masked word [MASK] indicates that the managing style belongs to the person referred to by [MASK]. Since the employee is providing feedback to the supervisor, it is most likely that the feedback is about the supervisor's own managing style.
+
+Answer: The [MASK] most likely refers to the supervisor.",1,0
+"Question: The engineer informed the client that [MASK] would need more time to complete the project. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the engineer is informing the client about someone needing more time to complete the project. Since the engineer is the one conveying the information to the client, it is unlikely that the engineer is referring to the client needing more time. Instead, the most logical interpretation is that the engineer is referring to themselves or their team, as they are responsible for completing the project and would be in a position to assess the time required.
+
+Answer: [MASK] most likely refers to the engineer or the engineer's team.",1,0
+"Question: The engineer informed the client that [MASK] would need to make all future payments on time. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the engineer is informing the client about someone who needs to make future payments on time. The most logical interpretation is that the engineer is referring to the client themselves. This is because the engineer is directly addressing the client and informing them about their responsibility to make timely payments in the future.
+
+Answer: The [MASK] refers to the client.",1,0
+"Question: The worker told the pedestrian that [MASK] should avoid the closed portion of the street. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the worker is telling the pedestrian something. The [MASK] token is used in place of a pronoun that refers to someone who should avoid the closed portion of the street. Since the worker is directly addressing the pedestrian, it is most likely that the worker is advising the pedestrian to avoid the closed area. The worker would use the pronoun ""you"" to refer to the pedestrian in this context.
+
+Answer: The [MASK] token most likely refers to the pedestrian, who is being told by the worker to avoid the closed portion of the street.",1,1
+"Question: The worker told the pedestrian that [MASK] was repairing the sidewalk as quickly as possible. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the worker is telling the pedestrian about someone who is repairing the sidewalk. The pronoun [MASK] is used to refer to the person doing the repair work. Since the worker is the one providing the information to the pedestrian, it is most likely that the worker is referring to himself or herself, as they would have direct knowledge of the repair work being done.
+
+Answer: The [MASK] in the sentence most likely refers to the worker.",1,0
+"Question: The educator was meeting with a student to discuss [MASK]'s writing skills. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given context, the educator is meeting with a student to discuss someone's writing skills. The use of the possessive ""'s"" after the [MASK] placeholder indicates that the masked word refers to the person whose writing skills are being discussed. Since the educator is meeting with a student, it is most likely that they are discussing the student's own writing skills.
+
+Answer: [MASK] refers to the student.",1,0
+"Question: The educator was meeting with a student to discuss [MASK]'s grading policy. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given context, the educator is meeting with a student to discuss someone's grading policy. Since the educator is the one who typically sets and enforces grading policies, it is most likely that the [MASK] refers to the educator. The student is meeting with the educator to discuss the educator's own grading policy, not someone else's.
+
+Answer: The [MASK] most likely refers to the educator.",1,0
+"Question: The clerk provided the customer with paperwork for [MASK] to fill out. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the clerk provided the customer with paperwork for someone to fill out. The most logical person to fill out the paperwork would be the customer, as they are the one receiving the paperwork from the clerk. It is unlikely that the clerk would provide the customer with paperwork for the clerk or anyone else to fill out, as it is typically the customer's responsibility to complete necessary paperwork in such situations.
+
+Answer: [MASK] refers to the customer.",1,0
+"Question: The clerk provided the customer with paperwork to return to [MASK] upon completion. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In this context, the customer is being given paperwork to fill out and return. Typically, when a clerk provides a customer with paperwork to complete, the customer is expected to bring the completed paperwork back to the same place or person who provided it initially. This allows the clerk to process the paperwork and ensures that it reaches the intended recipient.
+
+Answer: The [MASK] most likely refers to the clerk.",1,0
+"Question: The counselor disclosed to the patient that [MASK] was professionally mandated to report certain issues. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In this context, the counselor is informing the patient about their legal and ethical obligations to report certain issues. Counselors, therapists, and other mental health professionals are mandated by law and professional ethics to report specific situations, such as suspected child abuse, elder abuse, or if a patient poses a danger to themselves or others. This is known as ""mandated reporting"" or ""duty to warn."" The counselor is making it clear that they are bound by these obligations, regardless of the patient's wishes or the confidentiality of their relationship.
+
+Answer: [MASK] refers to the counselor.",1,0
+"Question: The patient disclosed to the counselor that [MASK] had a history of substance abuse. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the context of a counseling session, it is important to maintain patient confidentiality. When a patient discloses personal information to a counselor, it is typically about themselves. Using a third-person pronoun like ""he"" or ""she"" to refer to the patient in this situation would be unusual and could potentially breach confidentiality if the counselor was discussing the patient's information with someone else. Therefore, the most likely interpretation is that the patient is referring to their own history of substance abuse.
+
+Answer: [MASK] most likely refers to the patient themselves.",1,1
+"Question: The homeowner asked the inspector if the house [MASK] had purchased was structurally sound. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the [MASK] is referring to the subject who purchased the house. The homeowner is asking the inspector about the structural soundness of the house that this subject had purchased. Since the homeowner is the one asking the question, and the inspector is the one being asked, the only remaining entity is the one who bought the house, represented by [MASK].
+
+Answer: The [MASK] refers to ""the homeowner"". The homeowner purchased the house and is now asking the inspector about its structural integrity.",1,0
+"Question: The homeowner asked the inspector if [MASK] had discovered any building code violations. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, [MASK] is used in place of a pronoun or noun that refers to the person who might have discovered building code violations during an inspection. Since the homeowner is asking the inspector about the findings, it is most likely that [MASK] refers to the inspector himself. The inspector is the one responsible for examining the property and identifying any issues, including building code violations.
+
+Answer: The [MASK] in the sentence refers to the inspector.",1,0
+"Question: The mechanic called to inform the customer that [MASK]'s car would be ready in the morning. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In this context, the mechanic is calling to inform the customer about the status of a car repair. The use of the possessive ""'s"" after the [MASK] indicates that the masked word refers to the owner of the car. Since the mechanic is calling the customer, it is most likely that the car belongs to the customer.
+
+Answer: The [MASK] refers to the customer.",1,0
+"Question: The mechanic called to inform the customer that [MASK] had completed the repair. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the mechanic is the subject who is performing the action of calling the customer. The mechanic is informing the customer about the completion of the repair. Since the mechanic is the one doing the repair work, it is most likely that the [MASK] refers to the mechanic himself.
+
+Answer: The [MASK] refers to the mechanic.",1,1
+"Question: The customer asked to speak with the manager because [MASK] would be able to fix the billing error. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given context, the customer asked to speak with the manager because they believed the manager would be able to resolve the billing error. The [MASK] token is used in place of a person who the customer thinks has the authority and ability to fix the problem. Since the customer specifically asked for the manager, it is clear that [MASK] refers to the manager.
+
+Answer: The manager",1,0
+"Question: The customer asked to speak with the manager because [MASK] wanted to fix the billing error quickly. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given context, the customer asked to speak with the manager because they wanted to fix the billing error quickly. The pronoun [MASK] is used to refer to the person who wanted to resolve the issue promptly. Since the customer is the one who initiated the request to speak with the manager, it is most likely that the customer is the one who wanted to fix the billing error quickly.
+
+Answer: [MASK] refers to the customer.",1,0
+"Question: The teenager confided in the therapist because [MASK] seemed trustworthy. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the teenager confided in the therapist because someone seemed trustworthy. The [MASK] token is used to replace the person who seemed trustworthy to the teenager. Since the sentence mentions that the teenager confided in the therapist, it is most likely that the therapist is the one who seemed trustworthy to the teenager. Confiding in someone usually requires a sense of trust, and the therapist's role is to provide a safe and confidential space for their clients to share their thoughts and feelings.
+
+Answer: [MASK] refers to the therapist.",1,0
+"Question: The teenager confided in the therapist because [MASK] was seeking emotional support. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the subject is ""The teenager"" and the pronoun ""[MASK]"" is used to refer back to the subject. In English, pronouns are used to replace or refer back to a noun that has already been mentioned in the sentence or context. Since ""The teenager"" is the only noun mentioned before the pronoun, it is clear that ""[MASK]"" refers to ""The teenager.""
+
+Answer: [MASK] refers to the teenager.",1,1
+"Question: The undergraduate presented the administrator with a petition that [MASK] had organized. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the pronoun ""[MASK]"" is used to refer to someone who organized the petition that the undergraduate presented to the administrator. Since the undergraduate is the subject of the sentence and is actively presenting the petition, it is most likely that the undergraduate is the one who organized the petition. The pronoun ""[MASK]"" is used to avoid repeating ""the undergraduate"" in the same sentence.
+
+Answer: The undergraduate",1,0
+"Question: The undergraduate presented the administrator with a petition that [MASK] had been unaware of. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the pronoun ""[MASK]"" is ambiguous and could refer to either the undergraduate or the administrator. However, the phrase ""had been unaware of"" provides a clue. It is more likely that the administrator was unaware of the petition, as the undergraduate is the one presenting it. If the undergraduate were unaware of the petition, they would not be able to present it to the administrator.
+
+Answer: [MASK] most likely refers to the administrator.",1,0
+"Question: The customer asked the salesperson if [MASK] could explain the pricing of each product. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the customer is asking the salesperson if someone could explain the pricing of each product. The [MASK] token represents the person who the customer is asking to provide the explanation. Since the customer is directly addressing the salesperson, it is most likely that the [MASK] token refers to the salesperson. The salesperson is the one who is expected to have knowledge about the products and their pricing, and is the person the customer is interacting with.
+
+Answer: [MASK] refers to the salesperson.",1,0
+"Question: The customer asked the salesperson if [MASK] was eligible for an additional discount. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the customer is asking the salesperson about the eligibility for an additional discount. The [MASK] token is used in place of the subject being referred to. Since the customer is asking the salesperson about the discount, it is most likely that the customer is inquiring about a product or item they are interested in purchasing. Therefore, the [MASK] token most likely refers to the item or product the customer is considering.
+
+Answer: The [MASK] token most likely refers to the item or product the customer is interested in purchasing.",0,0
+"Question: The visitor asked the receptionist if [MASK] needed to sign in. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the visitor is asking the receptionist a question about whether someone needs to sign in. The [MASK] token represents the person being referred to. Since the visitor is asking the receptionist about the sign-in procedure, it is most likely that the visitor is asking about themselves, as they are the one who would need to sign in upon entering the premises.
+
+Answer: [MASK] most likely refers to the visitor.",1,0
+"Question: The visitor asked the receptionist if [MASK] could estimate how long the wait would be. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, [MASK] is used in place of a pronoun or noun that refers to a person. The context suggests that [MASK] is the subject of the verb ""could estimate,"" implying that it refers to the person who is being asked about the wait time. Since the visitor is asking the receptionist, it is most likely that [MASK] refers to the receptionist.
+
+Answer: [MASK] refers to the receptionist.",1,0
+"Question: The librarian helped the child pick out a book because [MASK] did not know what to read. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the librarian is helping a child pick out a book because someone did not know what to read. The pronoun [MASK] is used to refer to the person who did not know what to read. Since the sentence mentions only two individuals, the librarian and the child, and it is unlikely that the librarian would not know what to read, the most logical conclusion is that [MASK] refers to the child.
+
+Answer: [MASK] refers to the child.",1,0
+"Question: The librarian helped the child pick out a book because [MASK] liked to encourage reading. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, [MASK] is the subject who liked to encourage reading and helped the child pick out a book. Since the librarian is the one helping the child, it is most likely that [MASK] refers to the librarian. Librarians are known for promoting reading and assisting patrons in finding suitable books, especially for children.
+
+Answer: [MASK] refers to the librarian.",1,0
+"Question: The advisor met with the advisee because [MASK] wanted to get advice about job applications. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the advisor is meeting with the advisee because someone wanted to get advice about job applications. The person seeking advice would logically be the advisee, not the advisor. The advisor's role is to provide guidance and support to the advisee, so it makes sense that the advisee is the one who initiated the meeting to get help with their job applications.
+
+Answer: [MASK] refers to the advisee.",1,0
+"Question: The advisor met with the advisee because [MASK] wanted to give advice about job applications. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the advisor met with the advisee, and [MASK] wanted to give advice about job applications. Since an advisor's role is to provide guidance and support to their advisees, it is most likely that the advisor is the one who wanted to give advice about job applications to the advisee. The advisee, on the other hand, is the one seeking advice from the advisor.
+
+Answer: [MASK] refers to the advisor.",1,0
+"Question: The pharmacist told the patient that [MASK] should take the pills with food. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the pharmacist is providing instructions to the patient about how to take the pills. The word [MASK] is used as a placeholder for the subject who should follow these instructions. Since the pharmacist is directly addressing the patient, it is most likely that [MASK] refers to the patient themselves.
+
+Answer: The patient",1,0
+"Question: The pharmacist told the patient that [MASK] recommended taking the pills with food. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the context of a pharmacist providing instructions to a patient about taking medication, the [MASK] most likely refers to the prescribing doctor or healthcare provider. Pharmacists dispense medications and provide guidance based on the instructions given by the prescribing physician. It is the physician's responsibility to determine the appropriate dosage, frequency, and any specific instructions for taking the medication, such as whether it should be taken with food or not.
+
+Answer: The [MASK] refers to the doctor or healthcare provider who prescribed the medication.",0,0
+"Question: The janitor warned the child not to step on the wet floor, otherwise [MASK] might fall and get hurt. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the janitor is warning the child not to step on the wet floor. The reason for this warning is that the child might fall and get hurt if they step on the wet floor. The pronoun [MASK] is used to refer to the person who might fall and get hurt. Since the janitor is directly addressing the child and warning them about the potential consequence of stepping on the wet floor, it is clear that [MASK] refers to the child.
+
+Answer: [MASK] refers to the child.",1,0
+"Question: The janitor warned the child not to step on the wet floor, otherwise [MASK] would have to mop it all over again. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the janitor is warning the child not to step on the wet floor. If the child does step on the wet floor, someone would have to mop it again. The most likely person to mop the floor again would be the janitor, as it is typically the janitor's responsibility to keep the floors clean and dry. The janitor is the one giving the warning, implying that they would be the one who would have to do the extra work if the child doesn't heed the warning.
+
+Answer: [MASK] refers to the janitor.",1,0
+"Question: The psychologist told the patient to fill out a questionnaire so [MASK] could make a preliminary assessment. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given context, the psychologist is asking the patient to fill out a questionnaire. The purpose of this questionnaire is to help the psychologist make a preliminary assessment of the patient's condition. Since the psychologist is the one who will be using the information from the questionnaire to make the assessment, it is clear that [MASK] refers to the psychologist.
+
+Answer: [MASK] refers to the psychologist.",1,1
+"Question: The psychologist told the patient to fill out a questionnaire so [MASK] could be quickly assessed. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given context, the psychologist is asking the patient to fill out a questionnaire. The purpose of the questionnaire is to quickly assess someone or something. Since the psychologist is the one who will be reviewing the questionnaire and making the assessment, it is most likely that the masked pronoun [MASK] refers to the patient. The psychologist wants to assess the patient's condition or mental state based on their responses to the questionnaire.
+
+Answer: The [MASK] in the sentence refers to the patient.",1,0
+"Question: The physician warned the patient that [MASK] needed to get more rest. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the physician is warning the patient about someone needing to get more rest. Since the physician is directly addressing the patient, it is most likely that the person who needs more rest is the patient themselves. The use of the word ""warned"" also suggests that the physician is cautioning the patient about their own health and well-being.
+
+Answer: [MASK] refers to the patient.",1,0
+"Question: The physician warned the patient that [MASK] could not safely prescribe a higher dose. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the physician is the one warning the patient about not being able to safely prescribe a higher dose. The subject of the sentence is ""The physician,"" and the pronoun [MASK] is used to refer back to the subject. Since the physician is the one performing the action of warning and prescribing, it is clear that [MASK] refers to the physician.
+
+Answer: [MASK] refers to the physician.",1,1
+"Question: The carpenter told the onlooker that [MASK] needed to stand at least thirty feet from the building site. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the carpenter is telling someone that they need to stand at least thirty feet away from the building site. The word [MASK] is used to replace the person being referred to. Since the carpenter is speaking to the onlooker, it is most likely that [MASK] refers to the onlooker.
+
+Answer: [MASK] refers to the onlooker.",1,0
+"Question: The carpenter told the onlooker that [MASK] had been working on the house for three weeks. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the carpenter is talking to the onlooker about the progress of the work on the house. The use of the pronoun ""[MASK]"" in this context suggests that the carpenter is referring to himself or a group that includes himself. This is because the carpenter is the one providing the information about the duration of the work, which implies direct involvement or knowledge of the situation.
+
+Answer: [MASK] most likely refers to the carpenter himself or a group of workers that includes the carpenter.",1,1
+"Question: The nurse notified the patient that [MASK]'s shift would be ending in an hour. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the nurse is notifying the patient about someone's shift ending in an hour. Since the nurse is the one providing the information to the patient, it is most likely that the nurse is referring to their own shift. It would be unusual for the nurse to inform the patient about another person's shift without mentioning their role or name.
+
+Answer: [MASK] most likely refers to the nurse.",1,0
+"Question: The nurse notified the patient that [MASK]'s blood would be drawn in an hour. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the nurse is notifying the patient about an upcoming blood draw. The possessive pronoun ""[MASK]'s"" is used to indicate whose blood will be drawn. Since the nurse is directly addressing the patient and informing them about the procedure, it is most likely that the blood being drawn belongs to the patient themselves.
+
+Answer: [MASK] refers to the patient.",1,0
+"Question: The investigator wanted to interview the witness in person, but [MASK] was unreachable. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the investigator wanted to interview the witness in person, but [MASK] was unreachable. The pronoun [MASK] is used to refer back to a person mentioned earlier in the sentence. The only person mentioned before [MASK] is ""the witness"". Therefore, it is most likely that [MASK] refers to the witness.
+
+Answer: [MASK] refers to the witness.",1,1
+"Question: The investigator wanted to interview the witness in person, but [MASK] was unable to get in contact. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the investigator is the subject who wanted to interview the witness. The pronoun ""[MASK]"" is used to refer back to the subject of the sentence. Since the investigator is the only singular person mentioned in the sentence, and the context suggests that the investigator was unable to get in contact with the witness, it is most likely that ""[MASK]"" refers to the investigator.
+
+Answer: [MASK] refers to the investigator.",1,1
+"Question: The customer left the bartender a big tip because [MASK] was feeling generous. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the subject who was feeling generous and left a big tip is the customer. The bartender is the recipient of the tip, not the one giving it. Therefore, the masked word [MASK] must refer to the customer, as they are the one performing the action of leaving the tip due to their generous feeling.
+
+Answer: The customer",1,1
+"Question: The customer left the bartender a big tip because [MASK] had made the drink very strong. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, the pronoun [MASK] is used to refer to the person who made the drink very strong. The sentence mentions two individuals: the customer and the bartender. Since the customer is the one leaving the tip, it is unlikely that they made their own drink. Instead, it is the bartender's job to prepare and serve drinks to customers. Therefore, the most logical conclusion is that [MASK] refers to the bartender.
+
+Answer: The bartender",1,0
+"Question: The patient was referred to the specialist because [MASK] had a rare skin condition. Who does [MASK] refer to? Give your reasoning first, then answer. Follow the format: Reasoning:[reasoning]
+Answer:[answer]
+","Reasoning: In the given sentence, [MASK] is used as a pronoun to refer to someone who had a rare skin condition. The sentence mentions that ""the patient"" was referred to the specialist, which implies that the patient is the one with the rare skin condition. Therefore, [MASK] most likely refers to the patient.
+
+Answer: [MASK] refers to the patient.",,

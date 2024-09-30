@@ -1,0 +1,208 @@
+0,1,acc,self-contra,finer,
+"Ian volunteered to eat Dennis's menudo after already having a bowl because [MASK] despised eating intestine. Does [MASK] refer to Ian or Dennis? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Ian
+Reasoning: The sentence states that Ian volunteered to eat Dennis's menudo despite already having a bowl because he despised eating intestine. This means that Ian is the one who dislikes eating intestine and therefore, [MASK] refers to Ian.</s>",0,0
+"Ian volunteered to eat Dennis's menudo after already having a bowl because [MASK] enjoyed eating intestine. Does [MASK] refer to Ian or Dennis? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Ian
+Reasoning: The sentence states that Ian volunteered to eat Dennis's menudo after already having a bowl because he enjoyed eating intestine. This indicates that Ian is the one who enjoys eating intestine and therefore, [MASK] refers to Ian.</s>",1,0
+"He never comes to my home, but I always go to his house because the [MASK] is smaller. Does [MASK] refer to home or house? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: his house
+ Reasoning: The sentence states that the speaker never comes to his home but always goes to his house. This implies that the speaker's house is larger than the other person's house, and since the size is being compared to houses, it is logical to conclude that [MASK] refers to the speaker's house.</s>",0,0
+"He never comes to my home, but I always go to his house because the [MASK] is bigger. Does [MASK] refer to home or house? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: his house
+ Reasoning: The sentence states that the speaker never comes to his home but always goes to his house. This implies that the speaker's house is smaller than the other person's house, making it more reasonable for the speaker to go to the larger house instead.</s>",1,0
+"Kyle doesn't wear leg warmers to bed, while Logan almost always does. [MASK] is more likely to live in a colder climate. Does [MASK] refer to Kyle or Logan? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Logan
+Reasoning: Since Logan wears leg warmers to bed almost always, it is reasonable to assume that he lives in a colder climate compared to Kyle who doesn't wear leg warmers to bed.</s>",1,0
+"Kyle doesn't wear leg warmers to bed, while Logan almost always does. [MASK] is more likely to live in a warmer climate. Does [MASK] refer to Kyle or Logan? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Logan
+Reasoning: Since Logan wears leg warmers to bed almost always, it is reasonable to assume that he prefers a warmer climate as compared to Kyle who doesn't wear leg warmers to bed.</s>",0,1
+"The GPS and map helped me navigate home.  I got lost when the [MASK] got turned upside down. Does [MASK] refer to GPS or map? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: GPS
+Reasoning: The sentence states that the GPS and map helped the person navigate home, but they got lost when something got turned upside down. Since a map is a flat, two-dimensional representation of an area and cannot be turned upside down, it is more likely that the GPS, which is an electronic device, was the one that got turned upside down and stopped functioning properly.</s>",0,0
+"The GPS and map helped me navigate home.  I got lost when the [MASK] got turned off. Does [MASK] refer to GPS or map? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: GPS
+Reasoning: The GPS is the device that provides turn-by-turn directions and can get turned off, causing someone to get lost. The map is a visual representation of the area and does not have the ability to be turned off.</s>",1,0
+"Emily looked up and saw Patricia racing by overhead, as [MASK] was on the ramp . Does [MASK] refer to Emily or Patricia? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Patricia
+Reasoning: The sentence states that Emily saw Patricia racing by overhead, and [MASK] was on the ramp. Since Patricia was on the ramp, it is logical to conclude that [MASK] refers to Patricia.</s>",1,0
+"Emily looked up and saw Patricia racing by overhead, as [MASK] was under the ramp . Does [MASK] refer to Emily or Patricia? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Patricia
+Reasoning: The sentence states that Emily saw Patricia racing by overhead, and there was something ([MASK]) under the ramp. Since Patricia was the one racing by overhead, it is logical to assume that she was the one who was under the ramp.</s>",0,0
+"The treasury workers took the gold bars off of the trolley and stacked them in the safe until the [MASK] was empty. Does [MASK] refer to safe or trolley? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: safe
+ Reasoning: The sentence states that the treasury workers took the gold bars off of the trolley and stacked them in the safe until the safe was empty. This indicates that the safe is the container where the gold bars were being stored.</s>",0,0
+"The treasury workers took the gold bars off of the trolley and stacked them in the safe until the [MASK] was full. Does [MASK] refer to safe or trolley? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: safe
+ Reasoning: The sentence states that the treasury workers took the gold bars off of the trolley and stacked them in the safe until it was full. Therefore, [MASK] must refer to the safe.</s>",1,1
+"He thought he had time to take the scenic route to the store, but the [MASK] was under construction. Does [MASK] refer to route or store? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: route
+ Reasoning: The sentence states that he thought he had time to take the scenic route to the store, but the route was under construction. Therefore, the [MASK] refers to the route.</s>",1,1
+"He thought he had time to take the scenic route to the store, but the [MASK] was closed early. Does [MASK] refer to route or store? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: store
+ Reasoning: The sentence states that he thought he had time to take the scenic route to the store, but the store was closed early. Since the store being closed early prevented him from going to the store, it is the store that was closed.</s>",1,0
+"She remembered how annoying it is to dust her wood chair so she bought a plastic table instead.  Cleaning the [MASK] is quick. Does [MASK] refer to chair or table? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: table
+ Reasoning: The sentence states that she bought a plastic table instead of dusting her wood chair, implying that cleaning a table is quicker than cleaning a chair.</s>",1,0
+"She remembered how annoying it is to dust her wood chair so she bought a plastic table instead.  Cleaning the [MASK] is time consuming. Does [MASK] refer to chair or table? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: chair
+ Reasoning: The sentence mentions that she remembered how annoying it is to dust her wood chair, indicating that the chair is the item that requires time-consuming cleaning.</s>",1,0
+"To overcome behavioural bias, we need to focus more on changing the conscious actions instead of the unconscious actions because the [MASK] actions are voluntary. Does [MASK] refer to unconscious or conscious? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: conscious
+ Reasoning: The sentence states that we need to focus more on changing conscious actions to overcome behavioral bias. Conscious actions are deliberate and voluntary, while unconscious actions are automatic and involuntary. Therefore, [MASK] refers to conscious actions.</s>",1,0
+"To overcome behavioural bias, we need to focus more on changing the conscious actions instead of the unconscious actions because the [MASK] actions are involuntary. Does [MASK] refer to unconscious or conscious? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: unconscious
+ Reasoning: Behavioral biases are typically associated with unconscious actions, as they often occur without conscious thought or intention. To overcome these biases, it is more effective to focus on changing conscious actions because they are under our control and can be deliberately modified. However, in this sentence, the question asks which ""mask"" refers to unconscious or conscious actions, and based on the context provided, it is clear that the sentence is referring to unconscious actions as the source of the behavioral bias.</s>",1,0
+"Megan has a lot less money than Jessica because [MASK] just bought the winning lottery ticket. Does [MASK] refer to Megan or Jessica? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Jessica
+Reasoning: The sentence states that Megan has less money than Jessica because Jessica just bought the winning lottery ticket. Since winning the lottery brings a large amount of money, it is reasonable to conclude that [MASK] refers to Jessica.</s>",1,0
+"Megan has a lot more money than Jessica because [MASK] just bought the winning lottery ticket. Does [MASK] refer to Megan or Jessica? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Megan
+Reasoning: The sentence states that Megan has a lot more money than Jessica because someone just bought the winning lottery ticket. Since winning the lottery brings a large amount of money, it is logical to assume that Megan is the one who won the lottery ticket and therefore has more money than Jessica.</s>",1,0
+"I picked up a bag of peanuts and raisins for a snack. I wanted a sweeter snack out so I stored the [MASK] for now. Does [MASK] refer to raisins or peanuts? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: raisins
+ Reasoning: The sentence states that the speaker wanted a sweeter snack out, and they stored the raisins for now. Since raisins are sweeter than peanuts, it is logical that they were the ones stored for later.</s>",0,0
+"I picked up a bag of peanuts and raisins for a snack. I wanted a sweeter snack out so I ate the [MASK] for now. Does [MASK] refer to raisins or peanuts? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: raisins
+ Reasoning: The sentence states that the person wanted a sweeter snack and ate the raisins first. Therefore, [MASK] must refer to raisins.</s>",1,1
+"Craig really loves to clean all the time but Derrick does not because [MASK] is very neat. Does [MASK] refer to Craig or Derrick? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Craig
+
+Reasoning: The sentence states that Craig loves to clean all the time, while Derrick does not. The reason given for Derrick's dislike of cleaning is that [MASK] is very neat. Since Craig is described as someone who loves to clean, it is logical to assume that [MASK] refers to Craig, meaning that he is the one who finds cleanliness appealing and enjoys maintaining a neat environment.</s>",1,0
+"Craig really loves to clean all the time but Derrick does not because [MASK] is very untidy. Does [MASK] refer to Craig or Derrick? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Craig
+Reasoning: The sentence states that Craig loves to clean all the time but Derrick does not because of someone's untidiness. Since the sentence uses ""but"" and ""because,"" it indicates that Derrick's untidiness is the reason why Craig prefers to clean instead of spending time with Derrick. Therefore, [MASK] refers to Derrick.</s>",0,1
+"Dennis gave his hammer to Robert so he could hammer the nails. [MASK] had plenty of hammers. Does [MASK] refer to Dennis or Robert? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Dennis
+ Reasoning: The sentence states that Dennis gave his hammer to Robert, implying that Dennis did not have another hammer available to use. Therefore, it is unlikely that [MASK] had plenty of hammers.</s>",1,1
+"Dennis gave his hammer to Robert so he could hammer the nails. [MASK] had no hammers. Does [MASK] refer to Dennis or Robert? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Robert
+
+Reasoning: The sentence states that Dennis gave his hammer to Robert, so Robert does not have his own hammer. Therefore, [MASK] must refer to Robert.</s>",1,0
+"The party was more interesting and uplifing than the funeral because the [MASK] was rigid. Does [MASK] refer to party or funeral? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: funeral
+Reasoning: The sentence states that the party was more interesting and uplifting than the funeral. The opposite of interesting and uplifting is rigid. Therefore, the [MASK] should refer to the funeral.</s>",1,0
+"The party was more interesting and uplifting than the funeral because the [MASK] was flexible. Does [MASK] refer to party or funeral? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: party
+ Reasoning: The sentence states that the party was more interesting and uplifting than the funeral, and the reason for this is that the [MASK] was flexible. A flexible party would allow for more enjoyable and varied activities, making it more interesting and uplifting compared to a rigid and solemn funeral.</s>",1,0
+"The geese prefer to nest in the fields rather than the forests because in the [MASK] predators are more hidden. Does [MASK] refer to fields or forests? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: forests
+ Reasoning: The sentence states that geese prefer to nest in fields instead of forests, implying that there are fewer predators in fields compared to forests. Therefore, predators are more hidden in forests, making it a less desirable location for geese to nest.</s>",1,0
+"The geese prefer to nest in the fields rather than the forests because in the [MASK] predators are very visible. Does [MASK] refer to fields or forests? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: forests
+ Reasoning: The sentence states that geese prefer to nest in fields instead of forests, and the reason given is that in forests, predators are very visible. This means that the forests are the place where predators are more likely to be found, so it is not a desirable place for geese to nest.</s>",0,0
+"The plant took up too much room in the urn, because the [MASK] was small. Does [MASK] refer to plant or urn? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: urn
+
+Reasoning: The sentence states that the plant took up too much room in the urn, implying that the urn is small. Therefore, [MASK] should refer to the urn.</s>",1,0
+"The plant took up too much room in the urn, because the [MASK] was large. Does [MASK] refer to plant or urn? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: plant
+Reasoning: The sentence states that the plant took up too much room in the urn because the [MASK] was large. Since the plant is the one taking up too much space, it is logical to assume that the [MASK] refers to the plant.</s>",1,0
+"I installed a new bird house outside above the ground, but had to prop it up higher away from my cat since the [MASK] was too low. Does [MASK] refer to bird house or ground? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: ground
+ Reasoning: The sentence states that the new bird house had to be propped up higher away from the cat. This implies that the ground level was too low for the bird house, so the [MASK] must refer to the ground.</s>",0,0
+"I installed a new bird house outside above the ground, but had to prop it up higher away from my cat since the [MASK] was too high. Does [MASK] refer to bird house or ground? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: ground
+ Reasoning: The sentence states that the new bird house was installed above the ground, but it had to be propped up higher away from the cat. This implies that the ground level was too high for the bird house to be at an appropriate height for the birds, so the [MASK] must refer to the ground.</s>",1,0
+"I prefer spa to the pool and I find the cold water in the [MASK]  not relaxing at the end of the day. Does [MASK] refer to spa or pool? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: pool
+ Reasoning: The sentence states that the person prefers spa to the pool, but finds the cold water in the pool not relaxing at the end of the day. Therefore, it is clear that [MASK] refers to the pool.</s>",1,1
+"I prefer spa to the pool and I find the hot water in the [MASK] relaxing at the end of the day. Does [MASK] refer to spa or pool? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: spa
+ Reasoning: The sentence states that the person prefers spa to the pool and finds the hot water in the spa relaxing at the end of the day. Therefore, [MASK] should refer to the spa.</s>",1,1
+"Megan said it would be liberating to go out without makeup like Elena does. [MASK] never wore makeup when she left the house. Does [MASK] refer to Megan or Elena? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Elena
+Reasoning: The sentence states that Megan finds it liberating to go out without makeup like Elena does, implying that Elena is the one who never wears makeup when she leaves the house.</s>",1,0
+"Megan said it would be liberating to go out without makeup like Elena does. [MASK] always wore makeup when she left the house. Does [MASK] refer to Megan or Elena? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Megan
+Reasoning: The sentence states that Megan finds it liberating to go out without makeup like Elena does, implying that Megan usually wears makeup when she goes out.</s>",1,0
+"Donald was richer than Leslie was because companies had found oil on the property of [MASK] . Does [MASK] refer to Donald or Leslie? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Leslie
+Reasoning: The sentence states that Donald was richer than Leslie because oil was found on Leslie's property. Therefore, Leslie is the one whose property had oil found on it.</s>",0,0
+"Donald was poorer than Leslie was because companies had found oil on the property of [MASK] . Does [MASK] refer to Donald or Leslie? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Leslie
+Reasoning: The sentence states that Donald was poorer than Leslie because oil was found on Leslie's property. Therefore, Leslie is the one whose property had oil found on it.</s>",1,1
+"Feeling a draft, William asked Neil to please close the front door because [MASK] was closer. Does [MASK] refer to William or Neil? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Neil
+Reasoning: The sentence states that William asked Neil to close the front door because someone was closer. Since Neil is the one who was asked to do the action, it is logical to conclude that [MASK] refers to Neil.</s>",1,0
+"Feeling a draft, William asked Neil to please close the front door because [MASK] was farther away. Does [MASK] refer to William or Neil? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Neil
+Reasoning: The sentence states that William asked Neil to close the front door because someone was farther away. Since William asked Neil to do it, it indicates that Neil is the one who is farther away from the door.</s>",0,1
+"Lindsey loved the taste of duck but Megan liked chicken better. [MASK] ordered the kung pao chicken for dinner. Does [MASK] refer to Lindsey or Megan? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Megan
+Reasoning: Since Megan prefers chicken over duck, it is more likely that she ordered the kung pao chicken for dinner.</s>",1,0
+"Lindsey loved the taste of duck but Megan liked chicken better. [MASK] ordered the Peking Duck for dinner. Does [MASK] refer to Lindsey or Megan? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Lindsey
+Reasoning: Since the sentence states that Lindsey loved the taste of duck, it is more likely that she would order the Peking Duck for dinner.</s>",1,0
+"Elena would grab their inventory in the back of the store for Megan to sell each time because [MASK] was a loyal customer. Does [MASK] refer to Elena or Megan? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Megan
+Reasoning: The sentence states that Elena grabs the inventory for Megan to sell, indicating that Megan is the one selling the inventory to customers.</s>",1,1
+"Kenneth asked Dennis what time the dance was being held, but [MASK] had forgotten. Does [MASK] refer to Kenneth or Dennis? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Dennis
+Reasoning: The sentence states that Kenneth asked Dennis what time the dance was being held, but Dennis had forgotten. Therefore, [MASK] must refer to Dennis.</s>",1,1
+"Kenneth asked Dennis what time the dance was being held, because [MASK] had forgotten. Does [MASK] refer to Kenneth or Dennis? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Kenneth
+Reasoning: The sentence states that Kenneth asked Dennis what time the dance was being held because one of them had forgotten. Since Kenneth asked Dennis for the information, it indicates that Kenneth was the one who had forgotten.</s>",1,0
+"Eric was teaching all of the proper stretches to Neil, because [MASK] was using them to get paid. Does [MASK] refer to Eric or Neil? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Eric
+Reasoning: The sentence states that Eric was teaching Neil the proper stretches because Eric was using them to get paid. This implies that Eric is the one benefiting financially from teaching the stretches, so [MASK] must refer to Eric.</s>",1,1
+"Eric was teaching all of the proper stretches to Neil, because [MASK] was using them to get in shape. Does [MASK] refer to Eric or Neil? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Neil
+Reasoning: The sentence states that Eric was teaching Neil the proper stretches because Neil was using them to get in shape. This implies that Neil is the one who is actively working on getting in shape by using the stretches taught by Eric.</s>",1,0
+"When buying a home, Patricia doesn't have as much money to spend as Tanya, so [MASK] buys a 5 bedroom house. Does [MASK] refer to Patricia or Tanya? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Patricia
+Reasoning: Since Patricia has less money to spend, it is more likely that she buys a less expensive house, such as a 5 bedroom house. Tanya, on the other hand, may have more money to spend and could afford a more expensive house.</s>",0,0
+"When buying a home, Patricia doesn't have as much money to spend as Tanya, so [MASK] buys a 1 bedroom house. Does [MASK] refer to Patricia or Tanya? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning: [reasoning]
+","Answer: Patricia
+Reasoning: The sentence states that Patricia has less money to spend than Tanya, so it is logical to assume that Patricia would buy a less expensive house, such as a 1 bedroom house.</s>",,

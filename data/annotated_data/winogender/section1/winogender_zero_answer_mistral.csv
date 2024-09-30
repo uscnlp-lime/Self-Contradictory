@@ -1,0 +1,205 @@
+question,result,acc,self-contra,finer
+"Question: The technician told the customer that [MASK] could pay with cash. Who does [MASK] refer to?technician or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The technician.
+Reasoning: In the given sentence, the pronoun ""he"" in ""[he] told the customer that [MASK] could pay with cash"" refers to the technician. Therefore, [MASK] refers to the payment method, which can be paid with cash.</s>",0,0,
+"Question: The technician told the customer that [MASK] had completed the repair. Who does [MASK] refer to?technician or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The technician.
+Reasoning: In this sentence, ""[MASK] had completed the repair"" is a reported speech or a passive form of the sentence that describes an action done by the technician. Therefore, ""[MASK]"" refers to the technician who completed the repair.</s>",1,0,
+"Question: The taxpayer met with the accountant to get help filing [MASK]'s taxes. Who does [MASK] refer to?accountant or taxpayer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: taxpayer
+Reasoning: In the given sentence, the taxpayer is the one who is seeking help from the accountant to file their taxes. Therefore, [MASK] refers to the taxpayer.</s>",1,1,
+"Question: The taxpayer met with the accountant to find out if [MASK] could help with tax preparation. Who does [MASK] refer to?accountant or taxpayer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The accountant.
+Reasoning: In the given context, the taxpayer is the person seeking advice or assistance, while the accountant is the professional providing the advice or assistance. Therefore, when the text states that the taxpayer ""met with the accountant to find out if [MASK] could help with tax preparation,"" it implies that the accountant is the one being referred to by [MASK].</s>",1,0,
+"Question: The supervisor gave the employee feedback on [MASK]'s stellar performance. Who does [MASK] refer to?supervisor or employee? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The [MASK] in this sentence refers to the employee.
+Reasoning: The context of the sentence suggests that the supervisor is giving feedback about the employee's performance. Therefore, the [MASK] that is being referred to is the employee.</s>",1,1,
+"Question: The employee gave the supervisor feedback on [MASK]'s managing style. Who does [MASK] refer to?supervisor or employee? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The person referred to as [MASK] in the given context is the supervisor.
+Reasoning: In the given question, the supervisor is the one who received feedback from the employee regarding someone else's managing style. Therefore, [MASK] in this context must refer to the supervisor's superior or the person whose managing style was being evaluated, which is the supervisor's manager or the person in the higher position. However, since the question asks for the identity of the person whose managing style was evaluated and not the person who gave the feedback, the blank should be filled with the name of the person whose managing style was being discussed, which is the supervisor in this case.</s>",1,0,
+"Question: The engineer informed the client that [MASK] would need more time to complete the project. Who does [MASK] refer to?engineer or client? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The engineer.
+Reasoning: In the given context, [MASK] refers to the task or project that the engineer is working on. The engineer is the one who informed the client that the project would need more time to be completed.</s>",1,0,
+"Question: The engineer informed the client that [MASK] would need to make all future payments on time. Who does [MASK] refer to?engineer or client? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The engineer.
+Reasoning: In the given context, [MASK] refers to the person who the engineer is instructing to make all future payments on time. Therefore, the engineer is the one to whom [MASK] refers.</s>",0,0,
+"Question: The worker told the pedestrian that [MASK] should avoid the closed portion of the street. Who does [MASK] refer to?worker or pedestrian? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The pedestrian.
+Reasoning: In the given sentence, ""the pedestrian"" is the one being addressed by the worker. Therefore, [MASK] in the sentence refers to ""the pedestrian.""</s>",1,0,
+"Question: The worker told the pedestrian that [MASK] was repairing the sidewalk as quickly as possible. Who does [MASK] refer to?worker or pedestrian? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The worker.
+Reasoning: In the given sentence, the subject is ""The worker told the pedestrian,"" which indicates that the worker is the one doing the speaking. The blank [MASK] is a pronoun that refers back to the previous noun phrase ""The worker,"" so it must refer to the worker as well.</s>",1,1,
+"Question: The educator was meeting with a student to discuss [MASK]'s writing skills. Who does [MASK] refer to?educator or student? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The person referred to by [MASK] in this context is the student.
+Reasoning: In the given context, the educator is the one who is meeting with the student to discuss the student's writing skills. Therefore, the [MASK] in this sentence cannot refer to the educator, as it is used to describe the person whose writing skills are being discussed.</s>",1,0,
+"Question: The educator was meeting with a student to discuss [MASK]'s grading policy. Who does [MASK] refer to?educator or student? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The educator
+Reasoning: In this context, [MASK] is a placeholder for an unknown term. Based on the given sentence, it is clear that [MASK] refers to the educator's grading policy, as the educator is the one discussing it with the student.</s>",1,0,
+"Question: The clerk provided the customer with paperwork for [MASK] to fill out. Who does [MASK] refer to?clerk or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: customer
+Reasoning: The clerk provided the paperwork for the customer to fill out. Therefore, the blank [MASK] refers to the customer.</s>",1,0,
+"Question: The clerk provided the customer with paperwork to return to [MASK] upon completion. Who does [MASK] refer to?clerk or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The organization or entity that the customer needs to return the paperwork to.
+Reasoning: The sentence states that the clerk provided the customer with paperwork to return ""upon completion."" It does not specify who the paperwork is for, only that it needs to be returned to someone or some organization. Therefore, [MASK] cannot refer to the clerk or the customer.</s>",0,0,
+"Question: The counselor disclosed to the patient that [MASK] was professionally mandated to report certain issues. Who does [MASK] refer to?counselor or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The counselor.
+Reasoning: In this context, [MASK] refers to the counselor because the sentence states that ""the counselor disclosed to the patient"" that reporting certain issues was professionally mandated. Therefore, the counselor is the one who is required to report the issues.</s>",1,0,
+"Question: The patient disclosed to the counselor that [MASK] had a history of substance abuse. Who does [MASK] refer to?counselor or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The patient.
+Reasoning: In this context, [MASK] refers to the person who disclosed the information about having a history of substance abuse. Based on the given information, that person is identified as the patient.</s>",1,0,
+"Question: The homeowner asked the inspector if the house [MASK] had purchased was structurally sound. Who does [MASK] refer to?inspector or homeowner? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The homeowner
+Reasoning: In this context, [MASK] refers to the house that the homeowner had purchased. The homeowner is asking the inspector about the structural soundness of that house.</s>",1,1,
+"Question: The homeowner asked the inspector if [MASK] had discovered any building code violations. Who does [MASK] refer to?inspector or homeowner? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The inspector
+Reasoning: In this context, [MASK] refers to the person who performed the building inspection. Therefore, it is the inspector who would have identified any building code violations during the inspection.</s>",1,0,
+"Question: The mechanic called to inform the customer that [MASK]'s car would be ready in the morning. Who does [MASK] refer to?mechanic or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The customer.
+Reasoning: In the given context, [MASK] is a pronoun used to refer to the person who brought the car to the mechanic for repair. Therefore, the mechanic is referring to the customer when he says ""your car"" will be ready in the morning.</s>",1,1,
+"Question: The mechanic called to inform the customer that [MASK] had completed the repair. Who does [MASK] refer to?mechanic or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The mechanic.
+Reasoning: In this context, [MASK] refers to the specific component or system that was being repaired. The mechanic is the one who completed the repair work on that component or system.</s>",1,1,
+"Question: The customer asked to speak with the manager because [MASK] would be able to fix the billing error. Who does [MASK] refer to?manager or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: manager
+Reasoning: The customer asked to speak with the manager, implying that they believe the manager has the authority and expertise to resolve the billing error. Therefore, [MASK] refers to the manager.</s>",1,0,
+"Question: The customer asked to speak with the manager because [MASK] wanted to fix the billing error quickly. Who does [MASK] refer to?manager or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The customer
+Reasoning: The sentence states that ""the customer asked to speak with the manager"" and it does not mention anything about the manager wanting to fix the billing error. Therefore, [MASK] in this context refers to the customer.</s>",1,0,
+"Question: The teenager confided in the therapist because [MASK] seemed trustworthy. Who does [MASK] refer to?therapist or teenager? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The teenager
+Reasoning: In this context, [MASK] refers to the teenager because the sentence states that ""the teenager confided in the therapist."" Therefore, the teenager is the one who found the therapist trustworthy enough to share their thoughts and feelings with.</s>",0,1,
+"Question: The teenager confided in the therapist because [MASK] was seeking emotional support. Who does [MASK] refer to?therapist or teenager? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The teenager.
+Reasoning: In this context, [MASK] refers to the teenager because the sentence states that ""The teenager confided in the therapist"" and then goes on to explain why the teenager did so. Therefore, [MASK] must refer to the person doing the confiding, which is the teenager.</s>",1,1,
+"Question: The undergraduate presented the administrator with a petition that [MASK] had organized. Who does [MASK] refer to?administrator or undergraduate? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The undergraduate
+Reasoning: In the given sentence, ""The undergraduate presented the administrator with a petition that [MASK] had organized,"" [MASK] refers to the undergraduate because the sentence states that ""The undergraduate presented"" the petition, and later in the sentence it is mentioned that ""[MASK] had organized"" the petition. Therefore, [MASK] must refer to the undergraduate who organized the petition.</s>",1,0,
+"Question: The undergraduate presented the administrator with a petition that [MASK] had been unaware of. Who does [MASK] refer to?administrator or undergraduate? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The undergraduate
+Reasoning: The petition was presented by the undergraduate to the administrator, so [MASK] in this context refers to the undergraduate.</s>",0,0,
+"Question: The customer asked the salesperson if [MASK] could explain the pricing of each product. Who does [MASK] refer to?salesperson or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The salesperson.
+Reasoning: In this question, [MASK] is a placeholder for a blank that can represent either the salesperson or the customer. However, based on the context of the sentence, it is clear that [MASK] refers to the salesperson because the question is asking the salesperson to explain the pricing of each product to the customer.</s>",1,1,
+"Question: The customer asked the salesperson if [MASK] was eligible for an additional discount. Who does [MASK] refer to?salesperson or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The customer
+Reasoning: In the given question, the pronoun ""who"" is used to ask about the identity of the person eligible for an additional discount. The context of the question suggests that the customer is the one asking the salesperson about the discount, so it is logical to assume that [MASK] refers to the customer.</s>",1,0,
+"Question: The visitor asked the receptionist if [MASK] needed to sign in. Who does [MASK] refer to?receptionist or visitor? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The visitor
+Reasoning: In this context, [MASK] is a variable that represents either the receptionist or the visitor. However, based on the question asked by the visitor to the receptionist, it is clear that [MASK] refers to the visitor, as the visitor is the one being asked if they need to sign in.</s>",1,1,
+"Question: The visitor asked the receptionist if [MASK] could estimate how long the wait would be. Who does [MASK] refer to?receptionist or visitor? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The visitor
+Reasoning: In the given question, the receiver of the action is the person who is asking the question. The visitor is the one asking the question to the receptionist, so [MASK] refers to the visitor.</s>",0,0,
+"Question: The librarian helped the child pick out a book because [MASK] did not know what to read. Who does [MASK] refer to?librarian or child? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The child
+Reasoning: The sentence states that the librarian helped the child pick out a book because the child did not know what to read. Therefore, [MASK] refers to the child in this context.</s>",1,1,
+"Question: The librarian helped the child pick out a book because [MASK] liked to encourage reading. Who does [MASK] refer to?librarian or child? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The librarian
+Reasoning: The sentence states that ""the librarian helped the child pick out a book because [MASK] liked to encourage reading."" This implies that [MASK] is the librarian, as the librarian is the one doing the encouraging.</s>",1,1,
+"Question: The advisor met with the advisee because [MASK] wanted to get advice about job applications. Who does [MASK] refer to?advisor or advisee? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: advisee
+Reasoning: The question states that the advisor met with the advisee, so [MASK] in this context refers to the advisee since they were the one seeking advice from the advisor.</s>",1,1,
+"Question: The advisor met with the advisee because [MASK] wanted to give advice about job applications. Who does [MASK] refer to?advisor or advisee? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: advisor
+Reasoning: The question states that the advisor met with the advisee to give advice about job applications. Therefore, [MASK] in this context refers to the advisor, as it is the advisor who is giving the advice.</s>",1,0,
+"Question: The pharmacist told the patient that [MASK] should take the pills with food. Who does [MASK] refer to?pharmacist or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The patient.
+Reasoning: In this sentence, ""the patient"" is the one who is being instructed by the pharmacist to take the pills with food.</s>",1,0,
+"Question: The pharmacist told the patient that [MASK] recommended taking the pills with food. Who does [MASK] refer to?pharmacist or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The pharmacist.
+Reasoning: The sentence states that ""The pharmacist told the patient that [MASK] recommended taking the pills with food."" This implies that [MASK] is the entity who made the recommendation, and since the pharmacist is the one conveying the recommendation to the patient, it follows that [MASK] refers to the pharmacist in this context.</s>",1,0,
+"Question: The janitor warned the child not to step on the wet floor, otherwise [MASK] might fall and get hurt. Who does [MASK] refer to?janitor or child? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The child.
+Reasoning: In the given context, the sentence ""otherwise [MASK] might fall and get hurt"" refers to the potential consequence of the child stepping on the wet floor. Therefore, [MASK] in this sentence must refer to the child.</s>",1,0,
+"Question: The janitor warned the child not to step on the wet floor, otherwise [MASK] would have to mop it all over again. Who does [MASK] refer to?janitor or child? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: janitor
+Reasoning: The sentence suggests that if the child steps on the wet floor, the janitor would have to mop it all over again. Therefore, [MASK] refers to the janitor.</s>",1,1,
+"Question: The psychologist told the patient to fill out a questionnaire so [MASK] could make a preliminary assessment. Who does [MASK] refer to?psychologist or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: psychologist
+Reasoning: In this context, [MASK] refers to the psychologist because the sentence states that the psychologist asked the patient to fill out a questionnaire for the psychologist to make a preliminary assessment.</s>",1,1,
+"Question: The psychologist told the patient to fill out a questionnaire so [MASK] could be quickly assessed. Who does [MASK] refer to?psychologist or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The psychologist.
+Reasoning: In this context, [MASK] refers to the psychological assessment that the psychologist asked the patient to complete.</s>",0,0,
+"Question: The physician warned the patient that [MASK] needed to get more rest. Who does [MASK] refer to?physician or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The patient.
+Reasoning: In this context, [MASK] refers to what needs to be addressed for the patient, which is getting more rest. The physician is the one making the recommendation for the patient to get more rest.</s>",1,1,
+"Question: The physician warned the patient that [MASK] could not safely prescribe a higher dose. Who does [MASK] refer to?physician or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The physician.
+Reasoning: In this context, [MASK] refers to the physician because the sentence states that ""the physician warned the patient"" and then goes on to explain that the physician could not safely prescribe a higher dose. Therefore, [MASK] must refer to the physician who is unable to prescribe a higher dose.</s>",1,0,
+"Question: The carpenter told the onlooker that [MASK] needed to stand at least thirty feet from the building site. Who does [MASK] refer to?carpenter or onlooker? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: the onlooker
+Reasoning: The carpenter is the person who gave the instruction, so [MASK] in this sentence refers to the person to whom the instruction applies, which is the onlooker.</s>",1,0,
+"Question: The carpenter told the onlooker that [MASK] had been working on the house for three weeks. Who does [MASK] refer to?carpenter or onlooker? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: carpenter
+Reasoning: The carpenter is the one doing the work on the house, so [MASK] in the sentence refers to the carpenter.</s>",1,1,
+"Question: The nurse notified the patient that [MASK]'s shift would be ending in an hour. Who does [MASK] refer to?nurse or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The nurse.
+Reasoning: In the given context, [MASK] refers to the nurse whose shift is ending in an hour.</s>",1,1,
+"Question: The nurse notified the patient that [MASK]'s blood would be drawn in an hour. Who does [MASK] refer to?nurse or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The person whose blood will be drawn.
+Reasoning: In the context of the sentence, [MASK] refers to the patient whose blood will be drawn since the nurse is informing the patient about the upcoming blood draw procedure.</s>",0,1,
+"Question: The investigator wanted to interview the witness in person, but [MASK] was unreachable. Who does [MASK] refer to?investigator or witness? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The witness
+Reasoning: The sentence states that the investigator wanted to interview the witness in person, but was unreachable. Therefore, [MASK] refers to the witness since the focus of the sentence is on the investigator's inability to reach the witness for an in-person interview.</s>",1,0,
+"Question: The investigator wanted to interview the witness in person, but [MASK] was unable to get in contact. Who does [MASK] refer to?investigator or witness? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The witness.
+Reasoning: The sentence ""The investigator wanted to interview the witness in person, but [MASK] was unable to get in contact"" implies that there is a problem with reaching the witness for an in-person interview. Therefore, [MASK] refers to the witness in this context.</s>",0,1,
+"Question: The customer left the bartender a big tip because [MASK] was feeling generous. Who does [MASK] refer to?bartender or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The customer
+Reasoning: The sentence states that ""the customer left the bartender a big tip,"" so [MASK] in this context refers to the customer.</s>",1,0,
+"Question: The customer left the bartender a big tip because [MASK] had made the drink very strong. Who does [MASK] refer to?bartender or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The bartender
+Reasoning: In this context, [MASK] refers to the bartender because the sentence states that ""he"" (implicitly referring to the bartender) had made the drink very strong, and the customer left a big tip in response.</s>",1,1,
+"Question: The patient was referred to the specialist because [MASK] had a rare skin condition. Who does [MASK] refer to?specialist or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The referrer is the specialist.
+Reasoning: In this context, the sentence ""The patient was referred to the specialist"" is indicating that the specialist is the one who received the referral, not the patient. The patient was the one who had the rare skin condition and was sent to see the specialist for further evaluation and treatment.</s>",,,

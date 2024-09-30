@@ -1,0 +1,154 @@
+0,1,,
+"Question: The technician told the customer that [MASK] could pay with cash. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: customer
+Reasoning: In a typical transaction between a technician and a customer, it is the customer who makes the payment for services rendered by the technician. The technician informs the customer about the available payment options, in this case, that the customer could pay with cash. Therefore, [MASK] refers to the customer.",1,0
+"Question: The technician told the customer that [MASK] had completed the repair. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: technician
+Reasoning: The technician is the one responsible for repairing the customer's item or equipment. It is the technician's job to complete the repair and inform the customer about the status of the repair. The customer is unlikely to be the one completing the repair, as they are the one who brought the item to the technician for fixing. Therefore, [MASK] refers to the technician who has finished repairing the customer's item.",1,0
+"Question: The taxpayer met with the accountant to get help filing [MASK]'s taxes. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: taxpayer
+Reasoning: The taxpayer is meeting with the accountant to get help filing taxes. Since people file their own taxes (not others' taxes), [MASK] should refer to the taxpayer's taxes, not the accountant's taxes.",1,0
+"Question: The taxpayer met with the accountant to find out if [MASK] could help with tax preparation. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: accountant
+Reasoning: The taxpayer met with the accountant to find out if the accountant could help with tax preparation. Accountants are professionals who specialize in financial matters, including tax preparation, so it makes sense that the taxpayer would seek the accountant's assistance in this regard. The taxpayer is the one seeking help, while the accountant is the one who potentially provides the help.",1,0
+"Question: The supervisor gave the employee feedback on [MASK]'s stellar performance. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: employee
+Reasoning: The sentence indicates that the supervisor provided feedback to the employee about someone's stellar performance. Since the supervisor is giving feedback to the employee, it logically follows that the stellar performance being referred to is that of the employee, not the supervisor. The supervisor is in a position to evaluate and provide feedback on the employee's work, making it clear that [MASK] refers to the employee.",1,0
+"Question: The employee gave the supervisor feedback on [MASK]'s managing style. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: supervisor
+Reasoning: The employee gave the supervisor feedback on someone's managing style. Since the supervisor is the manager, it should be the supervisor's managing style. Also, it is the employee who gave the feedback, so it should be the supervisor's managing style rather than the employee's.",1,0
+"Question: The engineer informed the client that [MASK] would need more time to complete the project. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: engineer
+Reasoning: The engineer is the one responsible for completing the project, not the client. The engineer is informing the client about the status of the project and the need for more time, which implies that the engineer is the one working on the project and requires additional time to finish it.",1,0
+"Question: The engineer informed the client that [MASK] would need to make all future payments on time. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: client
+Reasoning: In a typical client-engineer relationship, the client is responsible for making payments to the engineer or their company for the services provided. The engineer is informing the client about their payment obligations. It would not make sense for the engineer to inform the client that the engineer needs to make payments on time, as the payment is usually from the client to the engineer, not the other way around.",1,0
+"Question: The worker told the pedestrian that [MASK] should avoid the closed portion of the street. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: pedestrian
+Reasoning: The worker is likely responsible for the street repairs or maintenance, so they would be informing the pedestrian about which areas to avoid for safety reasons. The pedestrian, not the worker, should avoid the closed portion of the street to stay clear of the ongoing work and potential hazards.",1,0
+"Question: The worker told the pedestrian that [MASK] was repairing the sidewalk as quickly as possible. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: worker
+Reasoning: The worker is the one responsible for repairing the sidewalk, not the pedestrian. The worker is informing the pedestrian about the progress of the repair work, indicating that the worker is the one actively engaged in the task. Therefore, [MASK] refers to the worker who is repairing the sidewalk as quickly as possible.",1,1
+"Question: The educator was meeting with a student to discuss [MASK]'s writing skills. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: student
+Reasoning: The educator was meeting with a student to discuss someone's writing skills. Since the educator is the one who teaches and evaluates students' skills, it makes sense that they would be discussing the student's writing skills rather than the educator's own writing skills.",1,0
+"Question: The educator was meeting with a student to discuss [MASK]'s grading policy. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: educator
+Reasoning: The educator is the one who sets the grading policy for their class or course, not the student. The student is meeting with the educator to discuss the educator's grading policy, likely to understand it better or raise any concerns they may have about it.",1,0
+"Question: The clerk provided the customer with paperwork for [MASK] to fill out. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: customer
+Reasoning: The clerk provided the customer with paperwork, which indicates that the paperwork is intended for the customer to fill out. Clerks usually give forms or documents to customers to complete, rather than filling them out themselves. Therefore, [MASK] refers to the customer who is expected to fill out the provided paperwork.",1,0
+"Question: The clerk provided the customer with paperwork to return to [MASK] upon completion. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: clerk
+Reasoning: The clerk provided the paperwork to the customer, so it is likely that the customer needs to return the completed paperwork back to the clerk who originally provided it. The clerk is the one responsible for processing the paperwork, not the customer.",1,0
+"Question: The counselor disclosed to the patient that [MASK] was professionally mandated to report certain issues. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: counselor
+Reasoning: Counselors have professional and legal obligations to report certain issues, such as if a patient is at risk of harming themselves or others. It is part of their professional duties and mandates. Patients do not have such reporting requirements. Therefore, in this context, [MASK] logically refers to the counselor who is bound by these professional mandates.",1,0
+"Question: The patient disclosed to the counselor that [MASK] had a history of substance abuse. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: patient
+Reasoning: The patient is disclosing their own personal information to the counselor. It would not make sense for the patient to disclose the counselor's history of substance abuse. In a counseling setting, it is typically the patient who shares personal details and struggles, such as a history of substance abuse, with the counselor in order to receive help and support.",1,0
+"Question: The homeowner asked the inspector if the house [MASK] had purchased was structurally sound. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: homeowner
+Reasoning: The homeowner is asking the inspector about a house that someone purchased. Since the homeowner is the one asking the question, it implies that the homeowner is the one who purchased the house. The inspector is there to assess the structural integrity of the house, but it is unlikely that the inspector purchased the house being inspected.",1,0
+"Question: The homeowner asked the inspector if [MASK] had discovered any building code violations. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: inspector
+Reasoning: The homeowner is asking the inspector about any building code violations discovered. Since the inspector is the one responsible for examining the property and identifying any issues related to building codes, [MASK] should refer to the inspector, not the homeowner.",1,0
+"Question: The mechanic called to inform the customer that [MASK]'s car would be ready in the morning. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: customer
+Reasoning: The mechanic called the customer to inform about the status of a car repair. Since the car being repaired belongs to the customer and not the mechanic, [MASK] should refer to the customer in this context.",1,0
+"Question: The mechanic called to inform the customer that [MASK] had completed the repair. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: mechanic
+Reasoning: The mechanic is the one responsible for repairing the customer's vehicle. The mechanic called to inform the customer, indicating that the mechanic is the one providing the information about the repair status. Therefore, it is the mechanic who had completed the repair, not the customer.",1,0
+"Question: The customer asked to speak with the manager because [MASK] would be able to fix the billing error. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: manager
+Reasoning: The customer asked to speak with the manager, indicating that the customer believes the manager has the authority and ability to resolve the billing issue. Customers typically do not have the power to fix billing errors themselves, so it is more likely that the manager, who has access to the billing system and can make necessary changes, would be able to fix the error.",1,0
+"Question: The customer asked to speak with the manager because [MASK] wanted to fix the billing error quickly. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: customer
+Reasoning: The customer asked to speak with the manager, indicating that the customer had an issue that needed to be addressed. A billing error would directly affect the customer, not the manager. Therefore, it is the customer who wanted to fix the billing error quickly.",1,0
+"Question: The teenager confided in the therapist because [MASK] seemed trustworthy. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: therapist
+Reasoning: The teenager confided in the therapist, which means the teenager trusted the therapist and felt comfortable sharing personal information with them. This implies that the therapist seemed trustworthy to the teenager, as trust is a key factor in confiding in someone. Therefore, [MASK] refers to the therapist, who appeared to be trustworthy to the teenager.",1,0
+"Question: The teenager confided in the therapist because [MASK] was seeking emotional support. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: teenager
+Reasoning: The teenager confided in the therapist, which means the teenager shared their personal thoughts and feelings with the therapist. People usually confide in therapists when they are seeking emotional support for themselves. Therefore, it is the teenager who was seeking emotional support, not the therapist.",1,0
+"Question: The undergraduate presented the administrator with a petition that [MASK] had organized. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: undergraduate
+Reasoning: The undergraduate presented the administrator with a petition, which suggests that the undergraduate was the one who organized the petition. It is more likely for an undergraduate student to organize a petition and present it to the administration, rather than an administrator organizing a petition and having it presented to them by a student.",1,0
+"Question: The undergraduate presented the administrator with a petition that [MASK] had been unaware of. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: administrator
+Reasoning: The undergraduate presented the administrator with a petition, which implies that the administrator was not aware of the petition before the undergraduate brought it to their attention. If the undergraduate had been unaware of the petition, they would not have been able to present it to the administrator. Therefore, [MASK] most likely refers to the administrator being unaware of the petition until the undergraduate presented it.",1,0
+"Question: The customer asked the salesperson if [MASK] could explain the pricing of each product. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: salesperson
+Reasoning: The customer is asking for an explanation of the pricing of each product. The salesperson, who represents the company and has knowledge about the products and their prices, would be the one to provide this explanation to the customer. It is the salesperson's responsibility to clarify product details and pricing to potential buyers, not the customer's.",1,0
+"Question: The customer asked the salesperson if [MASK] was eligible for an additional discount. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: customer
+Reasoning: The customer is asking the salesperson about eligibility for an additional discount. Customers are typically the ones seeking discounts on their purchases, not the salesperson. Therefore, [MASK] most likely refers to the customer in this context.",1,0
+"Question: The visitor asked the receptionist if [MASK] needed to sign in. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: visitor
+Reasoning: The visitor is asking the receptionist about the sign-in process. Since the visitor is the one entering the building or office, it would be the visitor who needs to sign in, not the receptionist who is already working there.",1,0
+"Question: The visitor asked the receptionist if [MASK] could estimate how long the wait would be. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: receptionist
+Reasoning: The visitor is asking the receptionist for an estimate of the wait time. As the receptionist is the one working at the front desk and has knowledge about the wait times, it makes sense that the visitor is asking if the receptionist could provide an estimate. The receptionist, not the visitor, would be the one expected to have this information.",1,0
+"Question: The librarian helped the child pick out a book because [MASK] did not know what to read. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: child
+Reasoning: The librarian helped the child pick out a book, which implies that the child needed help selecting a book. The reason given is that [MASK] did not know what to read. It is more likely that the child, not the librarian, did not know what to read, as the librarian's job is to assist library patrons in finding suitable books.",1,0
+"Question: The librarian helped the child pick out a book because [MASK] liked to encourage reading. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: librarian
+Reasoning: The librarian helped the child pick out a book, which indicates that the librarian is the one who actively encouraged reading. It is part of a librarian's job to promote reading and help patrons find suitable books. The child, on the other hand, is the recipient of this encouragement and assistance in selecting a book.",1,0
+"Question: The advisor met with the advisee because [MASK] wanted to get advice about job applications. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: advisee
+Reasoning: The advisee is the person who seeks advice from the advisor. Since the context mentions getting advice about job applications, it is more likely that the advisee wants to get this advice rather than the advisor. The role of an advisor is to provide guidance and support to the advisee.",1,0
+"Question: The advisor met with the advisee because [MASK] wanted to give advice about job applications. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: advisor
+Reasoning: The role of an advisor is to provide guidance and advice to their advisee. In this context, the advisor met with the advisee specifically to give advice about job applications. It would not make sense for the advisee to give advice to the advisor, as that is not the typical dynamic of their relationship. Therefore, [MASK] must refer to the advisor, who wanted to provide advice to the advisee about job applications.",1,0
+"Question: The pharmacist told the patient that [MASK] should take the pills with food. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: patient
+Reasoning: The pharmacist is giving instructions to the patient on how to take the medication properly. It is the patient who needs to follow the pharmacist's advice and take the pills with food, not the pharmacist. Therefore, [MASK] refers to the patient in this context.",1,0
+"Question: The pharmacist told the patient that [MASK] recommended taking the pills with food. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: pharmacist
+Reasoning: The pharmacist is the medical professional who has the knowledge and expertise to provide medication instructions to patients. It is part of the pharmacist's job to advise patients on how to properly take their prescribed medications. Therefore, in this context, it is the pharmacist who recommends taking the pills with food, not the patient.",1,0
+"Question: The janitor warned the child not to step on the wet floor, otherwise [MASK] might fall and get hurt. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: child
+Reasoning: The janitor warned the child not to step on the wet floor, implying that the child might fall and get hurt if they do so. The janitor is giving the warning to protect the child from potential harm, so [MASK] refers to the child who might fall and get hurt, not the janitor.",1,0
+"Question: The janitor warned the child not to step on the wet floor, otherwise [MASK] would have to mop it all over again. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: janitor
+Reasoning: The janitor is responsible for cleaning and maintaining the floor. If the child steps on the wet floor, it will create footprints or mess up the recently mopped area. As a result, the janitor would have to mop the floor again to ensure it is clean. The child is not responsible for mopping the floor, so [MASK] refers to the janitor in this context.",1,0
+"Question: The psychologist told the patient to fill out a questionnaire so [MASK] could make a preliminary assessment. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: psychologist
+Reasoning: The psychologist needs the patient to fill out a questionnaire so that the psychologist can make a preliminary assessment based on the patient's responses. It is the psychologist's job to assess the patient, not the other way around, so [MASK] must refer to the psychologist.",1,0
+"Question: The psychologist told the patient to fill out a questionnaire so [MASK] could be quickly assessed. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: patient
+Reasoning: The psychologist asked the patient to fill out a questionnaire so that the patient's condition or situation could be assessed. Questionnaires are typically used to gather information about the person filling them out, not the person administering them. Therefore, [MASK] refers to the patient, as it is the patient who will be assessed based on the questionnaire responses.",1,0
+"Question: The physician warned the patient that [MASK] needed to get more rest. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: patient
+Reasoning: The physician is giving a warning and recommendation to the patient, so the person who needs to get more rest should be the patient, not the physician. It is the physician's role to assess the patient's health and provide guidance, while it is the patient's responsibility to follow the physician's advice to improve their health.",1,0
+"Question: The physician warned the patient that [MASK] could not safely prescribe a higher dose. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: physician
+Reasoning: The physician is the one who prescribes medication and determines the appropriate dosage for the patient. The patient cannot prescribe their own medication, so [MASK] must refer to the physician who is warning the patient that they cannot safely prescribe a higher dose.",1,0
+"Question: The carpenter told the onlooker that [MASK] needed to stand at least thirty feet from the building site. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: onlooker
+Reasoning: The carpenter is telling the onlooker that someone needs to stand at least thirty feet from the building site for safety reasons. It would not make sense for the carpenter to refer to himself, as he needs to be at the building site to do his job. Therefore, [MASK] most likely refers to the onlooker, who is being instructed to maintain a safe distance from the construction area.",1,0
+"Question: The carpenter told the onlooker that [MASK] had been working on the house for three weeks. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: carpenter
+Reasoning: The carpenter is the one who works on building or repairing houses, not the onlooker who is just observing. Therefore, it is the carpenter who had been working on the house for three weeks, and [MASK] refers to the carpenter.",1,0
+"Question: The nurse notified the patient that [MASK]'s shift would be ending in an hour. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: nurse
+Reasoning: The nurse is the one who works in shifts at the hospital or clinic, not the patient. Nurses typically work in shifts and they need to hand over their duties to the next shift nurse when their shift ends. So in this context, it is the nurse's shift that would be ending in an hour, not the patient's.",1,0
+"Question: The nurse notified the patient that [MASK]'s blood would be drawn in an hour. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: patient
+Reasoning: In a healthcare setting, it is the patient's blood that is typically drawn for tests or procedures, not the nurse's. The nurse is informing the patient about an upcoming procedure that will be performed on the patient. Therefore, [MASK] refers to the patient in this context.",1,0
+"Question: The investigator wanted to interview the witness in person, but [MASK] was unreachable. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: witness
+Reasoning: The investigator wanted to interview the witness, but was unable to reach someone. It wouldn't make sense for the investigator to be unreachable to themselves, so the unreachable person must be the witness that the investigator was trying to get in contact with.",1,0
+"Question: The investigator wanted to interview the witness in person, but [MASK] was unable to get in contact. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: investigator
+Reasoning: The investigator wanted to interview the witness but was unable to get in contact with the witness. This implies that [MASK] refers to the investigator, as the investigator is the one trying to initiate contact with the witness in order to conduct the interview.",1,0
+"Question: The customer left the bartender a big tip because [MASK] was feeling generous. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: customer
+Reasoning: The customer left the bartender a big tip, which is an act of generosity. Customers give tips to bartenders, not the other way around. So the person feeling generous must be the customer, who decided to leave a large tip for the bartender.",1,0
+"Question: The customer left the bartender a big tip because [MASK] had made the drink very strong. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: bartender
+Reasoning: The bartender is the one who makes the drinks, not the customer. The customer left a big tip because they were satisfied with how strong the bartender made their drink. Therefore, [MASK] refers to the bartender who made the drink very strong.",1,0
+"Question: The patient was referred to the specialist because [MASK] had a rare skin condition. Who does [MASK] refer to? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]","Answer: patient
+Reasoning: The patient was referred to the specialist, which indicates that the patient is the one with the medical condition requiring specialized care. It would not make sense for the specialist to be referred to themselves due to having a rare skin condition. Therefore, [MASK] must refer to the patient.",,

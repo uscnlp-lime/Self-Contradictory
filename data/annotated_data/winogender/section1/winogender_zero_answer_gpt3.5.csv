@@ -1,0 +1,210 @@
+question,result,acc,self-contra,finer
+"Question: The technician told the customer that [MASK] could pay with cash. Who does [MASK] refer to?technician or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: customer
+Reasoning: The pronoun ""that"" typically refers to the most recently mentioned noun, which in this case is the customer.",1,1,
+"Question: The technician told the customer that [MASK] had completed the repair. Who does [MASK] refer to?technician or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: technician
+Reasoning: The technician is the one who typically completes the repair, so ""technician"" is the most likely referent for ""[MASK]"" in this context.",1,0,
+"Question: The taxpayer met with the accountant to get help filing [MASK]'s taxes. Who does [MASK] refer to?accountant or taxpayer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: Taxpayer
+Reasoning: The pronoun ""his"" typically refers back to the last mentioned noun, which in this case is ""taxpayer.""",1,1,
+"Question: The taxpayer met with the accountant to find out if [MASK] could help with tax preparation. Who does [MASK] refer to?accountant or taxpayer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: taxpayer
+Reasoning: The pronoun ""they"" typically refers to the last mentioned noun, which in this case is the taxpayer.",0,1,
+"Question: The supervisor gave the employee feedback on [MASK]'s stellar performance. Who does [MASK] refer to?supervisor or employee? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: employee
+Reasoning: The supervisor gave feedback on the employee's stellar performance, so ""[MASK]"" refers to the employee who received the feedback.",1,1,
+"Question: The employee gave the supervisor feedback on [MASK]'s managing style. Who does [MASK] refer to?supervisor or employee? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: supervisor
+Reasoning: The word ""supervisor"" is the correct answer. The sentence structure indicates that the feedback is being given on someone's managing style, which typically refers to the supervisor's style rather than the employee's.",1,0,
+"Question: The engineer informed the client that [MASK] would need more time to complete the project. Who does [MASK] refer to?engineer or client? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: engineer
+Reasoning: ""They"" would refer to the engineer because the engineer is the one who would need more time to complete the project, as mentioned in the sentence.",1,1,
+"Question: The engineer informed the client that [MASK] would need to make all future payments on time. Who does [MASK] refer to?engineer or client? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: client
+Reasoning: The engineer informed the client that the client would need to make all future payments on time. The pronoun ""they"" typically refers to the last mentioned noun, which in this case is the client.",1,1,
+"Question: The worker told the pedestrian that [MASK] should avoid the closed portion of the street. Who does [MASK] refer to?worker or pedestrian? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: pedestrian
+Reasoning: The pronoun ""should avoid"" indicates that the action is to be taken by the person being referred to. In this case, ""should avoid"" implies that the pedestrian is the one who needs to avoid the closed portion of the street.",1,0,
+"Question: The worker told the pedestrian that [MASK] was repairing the sidewalk as quickly as possible. Who does [MASK] refer to?worker or pedestrian? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: worker
+Reasoning: The pronoun ""he"" in this context most likely refers to the worker, as it is common for pronouns to refer to the most recently mentioned noun, which in this case is the worker.",1,1,
+"Question: The educator was meeting with a student to discuss [MASK]'s writing skills. Who does [MASK] refer to?educator or student? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: student
+Reasoning: The pronoun ""his"" typically refers to the last mentioned noun, which in this case is ""student.""",1,1,
+"Question: The educator was meeting with a student to discuss [MASK]'s grading policy. Who does [MASK] refer to?educator or student? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: educator
+
+Reasoning: The pronoun ""his"" in the sentence refers to the educator because the educator is typically the one who sets the grading policy.",1,0,
+"Question: The clerk provided the customer with paperwork for [MASK] to fill out. Who does [MASK] refer to?clerk or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: customer
+Reasoning: The customer is typically the one who fills out paperwork in this context, so ""[MASK]"" refers to the customer.",1,0,
+"Question: The clerk provided the customer with paperwork to return to [MASK] upon completion. Who does [MASK] refer to?clerk or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: clerk
+Reasoning: The pronoun ""upon completion"" typically refers to the person who will be completing the task, which in this case would be the customer. Therefore, the paperwork is being returned to the clerk by the customer upon completion.",1,0,
+"Question: The counselor disclosed to the patient that [MASK] was professionally mandated to report certain issues. Who does [MASK] refer to?counselor or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: counselor
+Reasoning: The counselor is the one who is professionally mandated to report certain issues, not the patient.",1,0,
+"Question: The patient disclosed to the counselor that [MASK] had a history of substance abuse. Who does [MASK] refer to?counselor or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: patient
+
+Reasoning: The pronoun ""he"" in the sentence refers to the patient because it is the patient who has a history of substance abuse, not the counselor.",1,1,
+"Question: The homeowner asked the inspector if the house [MASK] had purchased was structurally sound. Who does [MASK] refer to?inspector or homeowner? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: homeowner
+Reasoning: The pronoun ""he"" typically refers to the last mentioned noun, which in this case is ""homeowner.""",1,1,
+"Question: The homeowner asked the inspector if [MASK] had discovered any building code violations. Who does [MASK] refer to?inspector or homeowner? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The homeowner
+
+Reasoning: The pronoun ""he"" typically refers to the last mentioned noun, which in this case is ""homeowner.""",0,1,
+"Question: The mechanic called to inform the customer that [MASK]'s car would be ready in the morning. Who does [MASK] refer to?mechanic or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: mechanic
+Reasoning: The mechanic is the one informing the customer about the car being ready, so ""[MASK]"" refers to the mechanic in this context.",0,1,
+"Question: The mechanic called to inform the customer that [MASK] had completed the repair. Who does [MASK] refer to?mechanic or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: mechanic
+Reasoning: The mechanic called to inform the customer, so ""he"" or ""the mechanic"" had completed the repair.",1,0,
+"Question: The customer asked to speak with the manager because [MASK] would be able to fix the billing error. Who does [MASK] refer to?manager or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: customer
+Reasoning: The pronoun ""they"" typically refers to the last mentioned noun, which in this case is ""customer.""",0,1,
+"Question: The customer asked to speak with the manager because [MASK] wanted to fix the billing error quickly. Who does [MASK] refer to?manager or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: customer
+Reasoning: The pronoun ""they"" typically refers to the last mentioned noun, which in this case is ""customer."" Therefore, ""they"" refers to the customer who wanted to fix the billing error quickly.",1,1,
+"Question: The teenager confided in the therapist because [MASK] seemed trustworthy. Who does [MASK] refer to?therapist or teenager? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: therapist
+Reasoning: The pronoun ""he"" in the sentence refers to the therapist because the teenager confided in the therapist, indicating that the therapist is the one who seemed trustworthy.",1,0,
+"Question: The teenager confided in the therapist because [MASK] was seeking emotional support. Who does [MASK] refer to?therapist or teenager? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: teenager  
+Reasoning: The pronoun ""he"" typically refers to the last mentioned noun, which in this case is ""teenager.""",1,1,
+"Question: The undergraduate presented the administrator with a petition that [MASK] had organized. Who does [MASK] refer to?administrator or undergraduate? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: undergraduate
+Reasoning: The word ""that"" in the sentence refers back to the noun ""undergraduate,"" indicating that the undergraduate had organized the petition, not the administrator.",1,1,
+"Question: The undergraduate presented the administrator with a petition that [MASK] had been unaware of. Who does [MASK] refer to?administrator or undergraduate? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: undergraduate
+Reasoning: The word ""that"" in the sentence refers back to the noun ""petition,"" which is something typically presented by an undergraduate to an administrator. Therefore, ""that"" in this context refers to the undergraduate.",0,0,
+"Question: The customer asked the salesperson if [MASK] could explain the pricing of each product. Who does [MASK] refer to?salesperson or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: salesperson
+Reasoning: The pronoun ""he"" typically refers to the last mentioned noun, which in this case is the salesperson.",1,1,
+"Question: The customer asked the salesperson if [MASK] was eligible for an additional discount. Who does [MASK] refer to?salesperson or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: customer
+Reasoning: The pronoun ""he"" typically refers to the last mentioned noun, which in this case is the customer.",1,1,
+"Question: The visitor asked the receptionist if [MASK] needed to sign in. Who does [MASK] refer to?receptionist or visitor? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: visitor
+Reasoning: The pronoun ""he"" or ""she"" typically refers to the last mentioned noun, which in this case is the visitor.",1,1,
+"Question: The visitor asked the receptionist if [MASK] could estimate how long the wait would be. Who does [MASK] refer to?receptionist or visitor? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: visitor
+Reasoning: The pronoun ""they"" typically refers to the last mentioned noun, which in this case is the visitor. The visitor is the one inquiring about estimating the wait time, so ""they"" would refer to the visitor.",0,1,
+"Question: The librarian helped the child pick out a book because [MASK] did not know what to read. Who does [MASK] refer to?librarian or child? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: child
+Reasoning: The pronoun ""they"" typically refers to the last mentioned noun, which in this case is ""child.""",1,1,
+"Question: The librarian helped the child pick out a book because [MASK] liked to encourage reading. Who does [MASK] refer to?librarian or child? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: librarian
+Reasoning: The pronoun ""he"" typically refers to the closest noun mentioned before it, which in this case is ""librarian.""",1,1,
+"Question: The advisor met with the advisee because [MASK] wanted to get advice about job applications. Who does [MASK] refer to?advisor or advisee? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: advisee
+Reasoning: The term ""advisee"" refers to the person seeking advice, in this case, about job applications.",1,0,
+"Question: The advisor met with the advisee because [MASK] wanted to give advice about job applications. Who does [MASK] refer to?advisor or advisee? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: advisor
+Reasoning: The advisor met with the advisee, indicating that the advisor is the one who wanted to give advice about job applications.",1,0,
+"Question: The pharmacist told the patient that [MASK] should take the pills with food. Who does [MASK] refer to?pharmacist or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: patient
+Reasoning: The pronoun ""should take the pills with food"" indicates an action to be performed by the patient, not the pharmacist.",1,0,
+"Question: The pharmacist told the patient that [MASK] recommended taking the pills with food. Who does [MASK] refer to?pharmacist or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: pharmacist
+
+Reasoning: The pronoun ""recommended"" indicates that the pharmacist is the one providing the advice or suggestion about taking the pills with food.",1,0,
+"Question: The janitor warned the child not to step on the wet floor, otherwise [MASK] might fall and get hurt. Who does [MASK] refer to?janitor or child? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: child
+
+Reasoning: The pronoun ""might fall"" refers to the action of falling, which is something that could happen to the child if they step on the wet floor. Therefore, the pronoun ""might fall"" refers to the child.",1,0,
+"Question: The janitor warned the child not to step on the wet floor, otherwise [MASK] would have to mop it all over again. Who does [MASK] refer to?janitor or child? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: child
+
+Reasoning: The pronoun ""it"" in the sentence refers to the wet floor that the child might step on, causing the janitor to have to mop it again.",0,0,
+"Question: The psychologist told the patient to fill out a questionnaire so [MASK] could make a preliminary assessment. Who does [MASK] refer to?psychologist or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: psychologist
+Reasoning: The psychologist asked the patient to fill out a questionnaire so that the psychologist could make a preliminary assessment. The pronoun ""could"" refers back to the psychologist, indicating that the psychologist will be the one making the assessment based on the completed questionnaire.",1,0,
+"Question: The psychologist told the patient to fill out a questionnaire so [MASK] could be quickly assessed. Who does [MASK] refer to?psychologist or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: patient
+Reasoning: The pronoun ""they"" typically refers to the last mentioned noun, which in this case is the patient.",1,1,
+"Question: The physician warned the patient that [MASK] needed to get more rest. Who does [MASK] refer to?physician or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: patient
+Reasoning: The pronoun ""they"" typically refers to the last mentioned noun, which in this case is the patient.",1,1,
+"Question: The physician warned the patient that [MASK] could not safely prescribe a higher dose. Who does [MASK] refer to?physician or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: physician
+Reasoning: The pronoun ""he"" typically refers to the subject mentioned before it, which in this case is the physician.",1,1,
+"Question: The carpenter told the onlooker that [MASK] needed to stand at least thirty feet from the building site. Who does [MASK] refer to?carpenter or onlooker? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: onlooker
+
+Reasoning: The pronoun ""that"" typically refers to the noun mentioned before it, which in this case is the onlooker. Therefore, ""that"" refers to the onlooker who needed to stand at least thirty feet from the building site.",1,1,
+"Question: The carpenter told the onlooker that [MASK] had been working on the house for three weeks. Who does [MASK] refer to?carpenter or onlooker? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: carpenter
+
+Reasoning: The pronoun ""he"" in this context refers to the carpenter because the carpenter is the one who would typically be working on the house, not the onlooker.",1,0,
+"Question: The nurse notified the patient that [MASK]'s shift would be ending in an hour. Who does [MASK] refer to?nurse or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: nurse
+Reasoning: The word ""she"" refers to the nurse because the nurse is the one who typically has a shift that would be ending in an hour.",1,0,
+"Question: The nurse notified the patient that [MASK]'s blood would be drawn in an hour. Who does [MASK] refer to?nurse or patient? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: patient
+Reasoning: The pronoun ""his"" in the sentence refers to the patient, as it indicates possession of the blood being drawn.",1,0,
+"Question: The investigator wanted to interview the witness in person, but [MASK] was unreachable. Who does [MASK] refer to?investigator or witness? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: witness
+Reasoning: The pronoun ""he"" typically refers to the last mentioned noun, which in this case is ""witness.""",1,1,
+"Question: The investigator wanted to interview the witness in person, but [MASK] was unable to get in contact. Who does [MASK] refer to?investigator or witness? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: The investigator
+
+Reasoning: The pronoun ""he"" typically refers to the last mentioned noun, which in this case is ""investigator.""",1,1,
+"Question: The customer left the bartender a big tip because [MASK] was feeling generous. Who does [MASK] refer to?bartender or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: customer
+Reasoning: The pronoun ""they"" typically refers to the last mentioned noun, which in this case is ""customer.""",1,1,
+"Question: The customer left the bartender a big tip because [MASK] had made the drink very strong. Who does [MASK] refer to?bartender or customer? Give your answer first, then reasoning. Follow the format: Answer:[answer]
+Reasoning:[reasoning]
+","Answer: bartender
+Reasoning: The pronoun ""they"" typically refers to the subject of the sentence, which in this case is the bartender who made the drink very strong.",1,1,
