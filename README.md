@@ -1,6 +1,6 @@
 # Self-Contradictory Reasoning Evaluation and Detection
 
-[Paper link]:(https://arxiv.org/abs/2311.09603)
+This repository includes code and data for paper "Self-Contradictory Reasoning Evaluation and Detection". [Paper link]:(https://arxiv.org/abs/2311.09603)
 
 ## Dataset
 
